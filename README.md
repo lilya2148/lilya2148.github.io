@@ -1,2 +1,1 @@
-# lilya2148.github.io
-blog
+Just a simple page
