@@ -1,4 +1,7 @@
-# A reminder for me on how I can publish to this site:
+# NOTES
+If you are going to make stylist / code changes; make a branch, homie
+
+# How To Publish to this site:
 
 1) add a post to the home page (index.markdown), 
 
@@ -6,21 +9,16 @@
 
 3) look at your changes here: https://lilya2148.github.io/
 
-
-
-Just a simple page
-
-
-There's an issue with having two github accounts
-brew install gh
-gh auth login
-gh auth switch
-
-git push https://lilya2148@github.com/lilya2148/lilya2148.github.io.git
-https://github.com/lilya2148/lilya2148.github.io
+# Markdown guide
+https://commonmark.org/help/tutorial/05-blockquotes.html
 
 # working with multiple github accounts on mac
 following instructions [here](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
+
+# Vision
+Just a simple page
+
+# HTML Page
 
 add index.html
 <!DOCTYPE html>
@@ -41,9 +39,7 @@ add index.html
 </html>
 
 
-to post: 
-- add to index.html, then push to main
-- confirm page is up at: https://lilya2148.github.io/
-
-
-
+# Todo list
+- [ ] dark mode
+- [ ] button
+- [ ] something that posts to IG?
