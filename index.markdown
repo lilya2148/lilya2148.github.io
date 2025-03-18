@@ -5,4 +5,17 @@
 layout: base
 title: a one page project
 ---
-this should be the home page. I just want one post on the home page and that's all
+
+<center>If you could have one thing on a billboard, what would it be?</center>
+
+<br>
+<br>
+<br>
+
+<center>If you are suffering you are lost in thought</center>
+
+<br>
+<br>
+<br>
+
+<center>We're all just here for each other</center>
