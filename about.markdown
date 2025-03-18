@@ -2,10 +2,15 @@
 layout: page
 permalink: /about/
 ---
-Hello there, 
+**Thanks for stopping by...**
 
-First - thanks for coming to this page! It's a weirdo of a little project, and it's fun to have it up on the interewbs. 
+Hi there! Welcome! This is a super simple website. It's just got this page and the other page (a one page project). 
 
-Second to last, a few, quick notes on how this site was hosted (github pages) and built (quickstart from [jekyllrb.com](https://jekyllrb.com/)). Okay that's it! If you have trouble re-creating, feel free to email me at lilyarnar1@gmail.com. 
+I post to the home page weekly. 
 
-Totally Last: notes for ME! On how to publish to this site. Simply add a post to the home page (index.markdown), `git add .`, `git commit -m 'a silly lil commit'`, `git push`. Note: You could just maintain at github if you wanted to! No need to do command line stuff!
+You've probably realized by now that this is in fact, a two page project. That's true. And it's a good point. 
+
+**How to recreate this project**
+
+
+I am hosting this site on github pages, and I used the quickstart from [jekyllrb.com](https://jekyllrb.com/) to get all the styles / layouts. 

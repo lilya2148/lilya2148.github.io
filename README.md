@@ -1,3 +1,13 @@
+# A reminder for me on how I can publish to this site:
+
+1) add a post to the home page (index.markdown), 
+
+2) `git add .`, `git commit -m 'a silly lil commit'`, `git push`. Note: You could just maintain at github if you wanted to! No need to do command line stuff!
+
+3) look at your changes here: https://lilya2148.github.io/
+
+
+
 Just a simple page
 
 
@@ -34,3 +44,6 @@ add index.html
 to post: 
 - add to index.html, then push to main
 - confirm page is up at: https://lilya2148.github.io/
+
+
+

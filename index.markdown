@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: base
-title: Home
+title: a one page project
 ---
 this should be the home page. I just want one post on the home page and that's all
