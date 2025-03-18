@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
+Hello there, 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+First - thanks for coming to this page! It's a weirdo of a little project, and it's fun to have it up on the interewbs. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Second to last, a few, quick notes on how this site was hosted (github pages) and built (quickstart from [jekyllrb.com](https://jekyllrb.com/)). Okay that's it! If you have trouble re-creating, feel free to email me at lilyarnar1@gmail.com. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Totally Last: notes for ME! On how to publish to this site. Simply add a post to the home page (index.markdown), `git add .`, `git commit -m 'a silly lil commit'`, `git push`. Note: You could just maintain at github if you wanted to! No need to do command line stuff!
