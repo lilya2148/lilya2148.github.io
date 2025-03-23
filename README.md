@@ -40,6 +40,10 @@ add index.html
 
 
 # Todo list
+- [ ] write a post about the purpose / future of this site
 - [ ] dark mode
-- [ ] button
+- [ ] button for donations; button for payments
 - [ ] something that posts to IG?
+- [ ] get a custom domain name
+
+
