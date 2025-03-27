@@ -3,57 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: base
-title: on dedicating your life to God?
+title: on dedicating your life to God pt 2
 ---
 ### on dedicating your life to God?
 
-It is God who guides me. If I do anything good. It is from the hand of God. 
+The first time I wrote out here I didn't have any idea what I would write about. It was sort of a weird feeling, like getting off an airplane and not knowing what country you're in. 
 
-What a wild idea. *Anything* good? I'm never just out on my own, free-balling, seeing people, doing things, doing *good*. And it's never just, all me? Me being me? It's always (always!?) all about God? 
+That's never happened to me. That would be crazy. 
 
-I mean what's the point. How the hell am I going to get into heaven if I'm not actually doing anything good, I'm just getting overriden by God all the time. God'll be like, what'd you do down there buddy, and I'll say "nothing good!" and then go straight to hell. 
+The events that would have to occur for that to happen would be... weird. I think the most likely thing is, you'd be kidnapped, right? But also, then, well. The implication of the premise is that you can sort of get out and explore on your own. Like you're going to have to work to figure out what country you are in, and that means that you probably aren't been pulled around by some kidnappers or anything. So maybe you got kidnapped, and then all of your kidnappers, except the pilot, died on the plane. And you're stepping out into a new country...
 
-If it IS true -- that everything good that we do comes from God (like it or not! just the way it is!) -- then the goal of life would be what? To find a way to always be connected to the hand of God? Shouldn't we make my every move, a God-move? 
+The question of dedicating my life to God feels like the same question as: what's the most meaningful and service-ful work that I can do? For me, my head goes to: how can you dedicate your life to the poor. Probably got to give everything away. Like, if you're dedicating your life to the poor, you probably can't go skiing anymore, right? The poor don't ski, soooo I feel like you probably also don't get to ski. 
 
-That would require knowing what God wanted of us, which is (probably) a lot to ask. Probably requires a lot of prayer and discernment, and more than that, a lot of being totally zen-present in the moment to figure out what is good, what is true...
+TOTAL BUMMER! Totally not worth it! Give it all away? I mean, yeah, right? If I'm skiing, I probably spent money on a plane ticket, money on my skis, money on my ski pass... Probably upwards of like $1k to go skiing. And all of that money could have been donated to a guy named Joe to put him in a motel for a week. Or maybe it's just to keep a family off the street for a couple nights, and turns out, that's all they need in order to STAY off the street. I should find it, but there's a sort of crazy stat out there that's like... this is how likely it is for you to get off the street based on how long you've been out there. From what I understand, if you're on the street for more than 3 months, you're going to be there for a while. All to say: there's some incentive to get people out of that position quickly. 
 
-> "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things." 
-> 
-> Philippians 4:8
+Is this what God was talking about when he said the rich are going to have such a hard time getting into the kingdom of heaven? I lost my phone the other day and sort of freaked out, like, WHAT IF I LOSE ALL MY MONEEEY. And when I finally got my phone back, I (thought I) heard a little voice saying, "So it seems to me you still care a good deal about money, is that right?" 
 
-Never a spare moment to think about trashy HD-TV and house hunters international? Exhausting. 
+And yeah! I freaking do! But isn't there that one verse about talents? Thank God there's that one verse about talents. Don't let your talents just sit there! Grow! Invest you talents! Make more... talents! Make more money! Your God gave you value, now make more value! Ah, it's the rich person's dream. The whole incentive for a field of Christian millionaires to say, "No no... I'm allowed to have money." 
 
-But forrealsies, I've always liked this quote[^1]. It's centering in a way. Don't let you brain stick around the parts of your mind that are all depressing, ugly, and cynical and shit. Think of what's good, what's lovely. 
-
-Like, okay! Sure!
-
-If you can't tell, I've been struggling with my faith. I still pray; I still try to see God in my head. Try to hear His voice. I still *want* to believe things like "every good thing I do comes from God." But it's hard, ain't it? It's such a total act of surrender. As if our "selves" aren't even a part of the picture. Which feels so wrong and bad and scary, but also reminds me of mediation in a way? And that one Jimmy Carrey quote where he sort of goes off. He says: 
-
-> "A few months ago after knowing Eckhart Tolle for a while and studying the books I woke up and I suddenly got it. I understood suddenly how thought was just an illusory thing. And how thought is responsible for, if not all, most of the suffering we experience. 
->
-> And then, I suddenly felt like I was looking at the thought from another perspective, and I wondered: "Who is it that's aware that I am thinking." And suddenly, I was thrown into this expansive, amazing feeling of freedom. From myself, from my problems. I saw that I was bigger than what I do; I was bigger than my body. I was everything, and everyone. I was no longer a fragment of the universe; I *was* the universe." 
-
-Okay that's the quote, but the [video's](https://www.youtube.com/watch?v=uIaY0l5qV0c) better.
-
-Hm. Now I'm having all sorts of doubts, because, wowza, this video does so well if you play the interstellar soundtrack behind it. It sounds so good. It *looks* so good. All the pauses, feel more reflective, more intentional, less unsure, less like they're grabbing at a feeling that they know they can't get to, really. 
-
-Okay for real, watch the [IG version](https://www.instagram.com/beingspiritualistic/reel/DE5F_lfB6wW/) just so you know I'm not crazy. It's so much better, damn!
-
-But the words, or at least, the thought is there. Freedom from youself and your problems. A sense of belonging to the whole. A sense of well-being. 
-
-So where does that leave us, then? The questions I'm trying to ask (I think?) are these: "What does it mean to dedicate my life to God, and how do I do it?"
-
-What does it mean to dedicate my life to God? Such a scary question. And freaking-- like, I can already hear the person in the back saying: "Maybe the question you *should* be asking is, what does it mean to *not* dedicate yourself to God, eh?" 
-
-I don't know if you can hear it, but the "eh" is so crucial. So implicative. 
-
-You hear that "eh?" and you hear: "Do you *want* to go to hell? Be a sinner, lose your life, be a loser? Be evil, corrupt, a bady, a meaningless-spec that will disintegrate with all things living?" 
-
-For now, I think I can live with the following - and sorry, Lord, if this is offensive to you. Lol. I came all the way out here, just to journal to God. Super helpful. Super nice. The *literal* only person who's going to read this is Jesus, and I'm already being so inflamatory. Shit. 
-
-Here's the deal, though. I can dedicate myself to Love. That's way easier for me to stomach. Love is so big, and blind, and generous. It's just like... I love you![^2]
-
-And it feels less like an offering that way, to give yourself up to love like that. To try to make every moment a love-moment. To give every choice up to "what would love do?" That feels way easier than what would God do here? 
-
-[^1]: Can we call Bible quotes, quotes? Somebody said it right? 
-[^2]: ... Right?
+And aren't you? I guess, what I'm getting at, is this. For me? It seems like it's God's will to take care of the most vulnerable. I.e. the poor, right? So what am I sitting in this house for? Getting ready to go to work, about to *brew* coffee with my coffee maker to drink in a *ceramic mug* to sit at a *computer* to do work to make *money* for people who already have *money*. 

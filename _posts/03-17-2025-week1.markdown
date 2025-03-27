@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "on dedicating your life to God?"
+layout: base
+title:  on dedicating your life to God?
 date:   2025-03-18 07:42:30 -0500
-categories: God
+categories: [jekyll note]
 ---
 It is God who guides me. If I do anything good. It is from the hand of God. 
 

@@ -37,6 +37,14 @@ add index.html
     </ul>
 </body>
 </html>
+---
+<h1>{{ page.title }}</h1>
+
+<ul>
+  {% for post in site.categories.{{ page.title | downcase }} %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul> 
 
 
 # Todo list
