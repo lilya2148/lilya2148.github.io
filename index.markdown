@@ -1,37 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: base
-title: a reason for writing to this blog
-date:   2025-03-29 09:30:10 -0500
+title: on living a gift free life
+date:   2025-03-16 18:23:10 -0500
+categories: [all posts]
 ---
-Alright - I'm not even sure what I'm trying to do here. I see a hoodie that says excelence humility education community. That's confusing right? How are we supposed to be excellent and humble? Sounds a little freaking hard to me. 
+I spent the last couple of days with friends who are in their late twenties (that's me as well!) It occurred to me that each of us had at least one piece of their life figured out. One friend was in a good job, with an option to buy stock. Another has a fiance and lives on a farm, working with animals every day. It is hard for me not to compare myself in these moments. 
 
-This is a weird post because it's going to get wiped out in about 15 seconds, so. I could say anything. I could say, I love you X! I could fill that with a name that I really meant. 
+There are certain parts of my life that are tied down, but not well. I have a long-term girlfriend, but I'm still afraid to ask her to marry me. I have a job, and I have this as a side hustle (if you can call it that!), but neither seem like they are going much of anywhere.
 
-It strange - being able to say anything to anyone who wants to see it, makes it feel a little meaningless to say. I guess there's the possibility / reality that no one will see this. So it's like... what's the point, you know? I feel like you could do something special. So I also think that this thought is the one that ruins you and me. So sorry about that. For thinking that. Don't think that. It won't help. What everyone dreams of is the freedom of being able to do work that they choose on the timeline they decide. Maybe that's just me, but I think it's more than just me. 
+That's the scary thing, to me, I think: to make sure that you're going somewhere. If you're going somewhere - if you've got a destination to shoot for, it feels less free-fall, daydream-til-the-day-you-die kind of freaky. For large sections of my life, I feel like I'm just trying to get into a moment strong enough to pull away from all the little uncomfortable thoughts and moments that come with existing. The feeling that you're here and not somewhere else. Of knowing that you should be happy with here, with her, with them, doing this or that-- because eventually you won't be anywhere, with anyone.
 
-I wish for this to someone project me out of a life where i'm just a software developer and (somehow) get me into a life where I'm a writer and a developer. Or just a writer. Ugh, this freaking book about IT puts the smack down on developers so hard and it makes me so mad. 
+And then there's the soul-crushing guilt of not being with your mom. If you're hanging out with your mom you can pretty much be guilt free. That's time well spent. Even better if you're shredding up some pow with your mom. Shredding up pow with your whole family, your 2-3 best friends, and the lady that you spent the night with is pretty much the golden-knight dream baby. That's the best. Everybody's whooping like: "Oh man! This is the life! Shredding the pow!" You get to the bottom of the run and everyone high fives. "Ah yeah! That was awesome!" You give your lady a gottman-approved, six second kiss for oxytocin. That's a guilt free zone too, because even though life is fragile and you're going to lose your mom and dad sooner or later, you're spending time with them now, and that's about all you can do. 
 
-Instead of doing something super dumb, I'm going to do something that makes a little more sense. A list of things that I loved this last week:
-1) the water outside my apartment. It's so interesting to look at! There are a million colors in it. It's constantly changing.
-2) Fatso's last stand. It just felt like a fun place to be. Like an off-brand five guys. And so much food. And a lot of different food - like fried shrip. I freaking LOVE fried shrimp. It's so good. 
-3) my prayer - okay this is super strange... but i felt like i could connect to the people that I was praying for. I watched my prayer go into them and heal them (like TR says it does!) I saw the best parts of them made stronger. And that was my prayer, and I could feel it coming into me from them to. It was amazing. 
-4) playing games with o and s
-5) working out with o and s
+Of course, this shredding pow with friends, family and lover superzone probably happens 0/0 times in anyone's life, and that's just fine. I feel like life is randomly beautiful and meaningful. It comes and it goes. Just yesterday, in a meeting with my boss, I had to stop to watch a curlyque (I couldn't even tell you what it was; it must've been a piece of fabric? A little bit of fuzz) float down, shining in the office-white florescents, twisting in slow motion for one turn, two turns- and then gone. No longer in the right light to be seen. 
 
-Look - that's all I got, okay? I'm not sure what you want from me. I'm not even sure why we're doing this, really. What's the point of the 1 page project? It's so dumb, dude, I can't even. 
-
-# Reason for doing the one page project
-The reason I'm doing this project is super simple. I just (just just) want a place that I can post to and not feel self-conscious about. It's not asking anyone for anything. Or not demanding it from anyone at least. It's just a blog, and right now? It's just for me. Why? Because I'm the only one who reads it. And I don't even read it really. 
-
-What if it were important to write to this page? I want it to be important. I want to feel like I'm doing something meaningful. And that's so hard for me! Which is such an issue! That's the whole thing that I'm trying to get out of. THis feeling where nothing that I do for work really matters. It's crushing. Because every day i spend at work for 8 hours a day or whatever it is. 40 hours a week, then just... gets condensed into something that doesnt't matter at all. And not only does it NOT matter, I'm also just *ruining* relationships. Making relationships that are work relationships, which can sometimes feel so contingent and conditional. And then of course, we all know it, the weekends become crowded with either a need to make meaning or a need to make fun, out of what? Out of stress and frustration. Or out of alcohol and weed. 
-
-I saw something yesterday that made me laugh. I was scrolling through Instragram, and yeah I was letting the algorithm push past the hiking videos and sports to DIY projects to thirst traps. I felt myself falling in, one video, then the next 5, then the next 10, and then there was this one video that was going to be a thirst trap (the hook was) but then it was one of those bro-y lock in videos. Where the narrator was like... LOCK. IN. EXCUSES are a NO. There's no hacks, bro. It's you against you. Are you gonna walk out that door a loser? I would rather DIE. 
-
-That shit was crazzzyyy bro. For someone who is high to stumble along that video? I mean. Woof. Felt predatory in a way? It didn't feel good that's for sure. Lock in? What am I locking into? What am I locking out? 
-
-# Reason for doing the one page project x 2 
-1) It's a good habit to blog out. I want to be a writer. I want to make money from writing. I think writing is one of the coolest things that you can do. It's fascinating to me that you can write something down, and someone else can pick it up and read it and think it. And have that thought sort of flow through their body for a second. It's magic! It's awesome! I want to do that, I want to have that *influence* on people. Which is, I guess, just saying that I want people to listen to me. But -- that's the thing! I want to read and listen. And I want to write and talk, lol. I think it's dope that we can pass our worlds to each other. And I think it's totally crucial as well because from time to time, a person's life can become so dark and lonely that they decide that it's not worth living anymore. And maybe it's just something that a sunrise, the right sunrise would save. A sunrise, a good cry, and a voice coming out of the universe saying: you can go anywhere, just don't go away. please stay in this thing. 
-2) I need practice writing and publishing. I need to get less scared just putting shit out into the world, and I need a place to do it safely. Journaling is one thing. I can write, write, write, but it doesn't have any edge, or any consequence because it's not going out into the world. This is like medium, but it's my own. Totally my own. Which is pretty cool! 
-3) I can eventually start building out something cool here, I think. I think the goal for this page, eventually, is to have a newsletter, which draws people to this page. I think this page is the home base! It's the most important thing. Eventually it's a book! But I want to push people to this site, right? I think that's the goal. 
+This morning it also struck me that moments like that don't belong to us anymore - and that the tiny shred of reality that we can pull from memories like this are no more ours today than they will be in 50 years time. 
