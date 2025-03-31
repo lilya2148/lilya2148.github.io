@@ -1,8 +1,7 @@
 ---
 layout: base
-title: on living a gift free life
+title: on living a guilt free life
 date:   2025-03-16 18:23:10 -0500
-categories: [all posts]
 ---
 I spent the last couple of days with friends who are in their late twenties (that's me as well!) It occurred to me that each of us had at least one piece of their life figured out. One friend was in a good job, with an option to buy stock. Another has a fiance and lives on a farm, working with animals every day. It is hard for me not to compare myself in these moments. 
 

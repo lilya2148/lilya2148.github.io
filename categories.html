@@ -1,0 +1,15 @@
+---
+title: Topics
+layout: base
+---
+{% for category in site.categories %}
+  {% assign category_name = category | first %}
+  <h3>{{ category_name }}</h3>
+  <ul>
+    {% for post in category.last limit:5 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: "%B %d, %Y" }})
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

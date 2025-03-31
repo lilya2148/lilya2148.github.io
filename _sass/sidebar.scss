@@ -1,0 +1,35 @@
+.sidebar {
+    position: fixed;
+    right: 20px; /* Adjust for your layout */
+    top: 75px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+  }
+  
+  .sidebar li {
+    margin: 5px 0;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+
+  //   makes sure the sidebar goes away with a small screen
+  @media screen and (max-width: 1189px) {
+    .sidebar {
+      display: none;
+    }
+  }
+  
