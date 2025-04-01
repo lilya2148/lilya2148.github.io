@@ -7,7 +7,9 @@ It's strange to me that once I make that category, it will be put on the website
 
 Half of me writing here is just getting comfortable, I think, with the fact that someone, somewhere could read this. I think I *could* have a poetry side of this, which would be fun... I mean... yeah... this is like... my space! I can do whatever I want in here! Ah! Super freedom! 
 
-Alright, here's some background. I've been "trying" to be a "writer" for what, like... 5 years now? After I graduated college, I took a writing class, that was probably the first of it. 2018. Then I started trying to publish things in various places, like McSweeney's. Then I worked for a year, then I took a leave of absence to work at a deli and try to write a book. I wrote 100k pages. Oh, my gawd! Yeah it was super long. And it wasn't that good. And I didn't show it to nobody. It was crazy. I dunno... I freakiing... Yeah. Just did it. 
+Alright, here's some background. I've been "trying" to be a "writer" for what, like... 5 years now? After I graduated college, I took a writing class, that was probably the first of it. 2018. Then I started trying to publish things in various places, like McSweeney's. Then I worked for a year, then I took a leave of absence to work at a deli and try to write a book. I wrote 100k pages. That was back in 2020. Oh, my gawd! Yeah it was super long. And it wasn't that good. And I didn't show it to nobody. It was crazy. I dunno... I freakiing... Yeah. Just did it. 
+
+So 2018 - writing class, 2019 wrote a little for a newsletter where I worked. 2019 wrote just randomly, some poems, some little bits here and there. A few jokes. 2020 started writing this book. 2021 did some freelance writing - the most I'd done in a while... 2022 did some more freelance writing. Got accepted into Slackjaw and 
 
 Since then, I've tried to do a bunch of things. I've had a bunch of jobs like: 
 - marketer
@@ -31,7 +33,6 @@ Some categories:
 - entrepreneurship (on making $$)
 - On Giving
 - on making comedy
-
 
 okay, here's an idea... we do this every day... 
 we get up, we work for 2hrs (ish)
