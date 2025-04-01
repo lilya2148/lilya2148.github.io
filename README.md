@@ -12,45 +12,15 @@ If you are going to make stylist / code changes; make a branch, homie
 # Markdown guide
 https://commonmark.org/help/tutorial/05-blockquotes.html
 
-# working with multiple github accounts on mac
-following instructions [here](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3)
-
 # Vision
 Just a simple page
 
-# HTML Page
-
-add index.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Minimal Blog</title>
-</head>
-<body>
-    <h1>Welcome to My Blog</h1>
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="posts/post1.html">First Post</a></li>
-        <li><a href="posts/post2.html">Second Post</a></li>
-    </ul>
-</body>
-</html>
----
-<h1>{{ page.title }}</h1>
-
-<ul>
-  {% for post in site.categories.{{ page.title | downcase }} %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul> 
-
-
 # Todo list
+- [ ] add newsletter page and it just says... to get emails about new posts, email me and I'll add you to the list
+  - [ ] how to maintain your own email list
+- [ ] button for donations; button for payments
 - [ ] write a post about the purpose / future of this site
 - [ ] dark mode
-- [ ] button for donations; button for payments
 - [ ] something that posts to IG?
 - [ ] get a custom domain name
 
