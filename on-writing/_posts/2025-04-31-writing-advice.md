@@ -7,3 +7,4 @@ title: huge list of helpful writing advice
 category: on writing
 ---
 1. "Prove that you're a bad writer" Dan Harmon
+2. ""
