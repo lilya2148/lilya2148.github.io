@@ -7,21 +7,16 @@ title: huge list of helpful writing advice
 category: On Writing
 ---
 
-Creativity in Captivity - Jerry Seinfield https://www.youtube.com/watch?v=tLmFq2qmh9M
+Source: [Creativity in Captivity with Jerry Seinfield](https://www.youtube.com/watch?v=tLmFq2qmh9M)
 
-# Notes:
+### Notes
 
 - ART is making order out of chaos. Taking two ideas, and putting them together in a different way.
 
-ART is making order out of chaos. Taking two ideas, and putting them together in a different way. 
-
-1) Get things out of your way that is distracting... Bic pen + yellow legal pad pages x 10 days. All the episodes of Seinfield were written on legal paper.
-
-2) A delight a day, written by hand
 
 - Get things out of your way that is distracting... Bic pen + yellow legal pad pages x 10 days. All the episodes of Seinfield were written on legal paper.
 
-- A delight a day, written by hand
+- Get things out of your way that is distracting... Bic pen + yellow legal pad pages x 10 days. All the episodes of Seinfield were written on legal paper.
 
 - almost all pro writers write in the morning. That's when you have the energy.
 
