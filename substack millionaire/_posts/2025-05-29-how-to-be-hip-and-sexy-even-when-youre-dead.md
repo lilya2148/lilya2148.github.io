@@ -5,7 +5,7 @@ category: [substack millionaire]
 title: "How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor"
 ---
 
-III.II.I: How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor
+# III.II.I: How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor
 read here on maybelenard.substack.com | May 29, 2025
 May 29, 2025
 
@@ -23,7 +23,7 @@ I.
 
 ​II.
 
-#
+---
 
 “If you’re going to be murdered, ask to be slain. At least in the headlines. Being murdered sounds spooky and is mostly a bummer. Being slain sounds like you kinda had it.
 
