@@ -4,7 +4,7 @@ title: sushi bowls
 date:   2025-03-16 18:23:10 -0500
 category: [recipes]
 ---
-## Ingredients  
+## Ingredients      
 - 1 lb salmon 
 - 1 cucumber
 - 2 avocados
