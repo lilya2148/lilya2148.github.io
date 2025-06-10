@@ -4,7 +4,7 @@
 
 layout: base
 title: huge list of helpful writing advice
-category: on writing
+category: On Writing
 ---
 1. "Prove that you're a bad writer" Dan Harmon
 2. "The important thing to remember is that as a would-be, could-be, or should-be writer, you have the edge. A writer doesn't have to sell [themselves]. Their pages speak for themselves. All you need is the right person to read them." - Ed Simmons
@@ -24,10 +24,3 @@ category: on writing
 ​9. Discard the Program when you feel like it—but go back to it next day. Concentrate. Narrow down. Exclude.​
 ​10. Forget the books you want to write. Think only of the book you are writing.
 ​11. Write first and always. Painting, music, friends, cinema, all these come afterwards.
-
-
-ART is making order out of chaos. Taking two ideas, and putting them together in a different way. 
-
-Things to try: 
-1) Get things out of your way that is distracting... Bic pen + yellow legal pad pages x 10 days. All the episodes of Seinfield were written on legal paper.
-2) A delight a day, written by hand
