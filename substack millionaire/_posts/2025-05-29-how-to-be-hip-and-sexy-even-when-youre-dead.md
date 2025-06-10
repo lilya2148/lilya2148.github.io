@@ -2,7 +2,7 @@
 layout: base
 date:   2025-03-16 18:23:10 -0500
 category: [substack millionaire]
-title: ""
+title: "How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor"
 ---
 
 III.II.I: How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor
