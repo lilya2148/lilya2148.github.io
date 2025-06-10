@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "on writing"
-category: "on-writing"
+category: "On Writing"
 permalink: /category/on-writing/
 ---
