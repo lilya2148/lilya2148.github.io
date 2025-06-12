@@ -1,7 +1,7 @@
 ---
 layout: base
 date:   2025-03-16 18:23:10 -0500
-category: [on depression]
+category: [On Depression]
 title: "Don't think about it too much"
 ---
 I’ve heard you say that depression is just a feeling. 
