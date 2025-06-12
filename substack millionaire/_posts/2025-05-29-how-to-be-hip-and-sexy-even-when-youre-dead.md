@@ -6,7 +6,7 @@ title: "How to be hip and sexy even if you're dead, making peace with strangers,
 ---
 
 # III.II.I: How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor
-read here on maybelenard.substack.com | May 29, 2025
+`read here on maybelenard.substack.com | May 29, 2025`
 May 29, 2025
 
 Happy III.II.I whatever day of the week it is today!
@@ -21,15 +21,23 @@ I.
 
 (Share this on Twitter)
 
-​II.
+<br>
 
 ---
+
+<br>
+​II.
 
 “If you’re going to be murdered, ask to be slain. At least in the headlines. Being murdered sounds spooky and is mostly a bummer. Being slain sounds like you kinda had it.
 
 (Share this on Twitter)
 
-# 
+
+<br>
+
+---
+
+<br>
 
 III.
 
@@ -50,8 +58,6 @@ Source: Ad for Venmo​
 “Adopt me.”
 
 Source: A fan at a concert
-
-
 
 
 # 1 Answer For You

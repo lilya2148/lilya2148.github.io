@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: base
-title: huge list of helpful writing advice
+title: Creativity in Captivity with Jerry Seinfield Notes
 category: On Writing
 ---
 
