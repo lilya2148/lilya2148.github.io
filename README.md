@@ -20,11 +20,8 @@ Just a simple page
 # Todo list
 - [ ] button for donations; button for payments
 
-
 - [ ] what you do has more impact than how you do it... so think about what you're doing!
 - [ ] connect to your substack
 - [ ] something that posts to IG?
 - [ ] get a custom domain name
-
-
 - [ ] dark mode
