@@ -21,29 +21,11 @@
       </div>
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">{%- include social.html -%}
-        <!-- <ul class="social-media-list">
-          <li>
-            <a href="https://github.com/lukejbrennan"
-              ><svg class="svg-icon">
-                <use xlink:href="/assets/minima-social-icons.svg#github"></use>
-              </svg>
-              <span class="username">lukejbrennan</span></a
-            >
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/in/luke-brennan"
-              ><svg class="svg-icon">
-                <use
-                  xlink:href="/assets/minima-social-icons.svg#linkedin"
-                ></use>
-              </svg>
-              <span class="username">luke-brennan</span></a
-            >
-          </li>-->
         </ul>
       </div> 
       <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
+        {% include payment_button.html %}
       </div>
     </div>
   </div>
