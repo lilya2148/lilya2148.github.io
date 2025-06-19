@@ -2,7 +2,7 @@
 layout: base
 date:   2025-03-16 18:23:10 -0500
 category: [substack millionaire]
-title: ""
+title: "How to not be depressed, an absurd talent for pasta, monk life, magic in everyday mirrors"
 ---
 
 # III.II.I: How to be hip and sexy even if you're dead, making peace with strangers, and what to give to the poor
@@ -47,14 +47,29 @@ III.
 # 2 Random A$$ Quotes to Change Your Life
 I.
 
+[Italian man guessing pasta types by the sound they make](https://www.instagram.com/reel/DJ67L_asdGg/?igsh=MXUyZmwxdzhoaGNiOA==)
 
 
 ​II.
 
+[This guys joke about beans](https://www.instagram.com/reel/DKuJ-XNxcQY/?igsh=MW1yNHRmNTR6aGQxaA==)
 
 
 # 1 Answer For You
-Give 10% to the poor
+Don't be depressed
+
+
+# 3 Life Changing Answers
+1. Make friends with a horse and play guitar while riding 
+2. 
+3. 
+
+# 3 Sincere Things
+1. The thing that makes me sure: I only wish I knew you sooner. I think we’d be friends as kids. 
+2. 
+3. 
+
+# 3
 
 Want to share this issue of III-II-I? Go here: 
 
