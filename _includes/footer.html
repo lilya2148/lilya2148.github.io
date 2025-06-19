@@ -13,10 +13,11 @@
         <ul class="contact-list">
           <li class="p-name">{{ site.author.name | escape }}</li>
           <li>
-            <a class="u-email" href="mailto:{{ site.author.email }}"
+              <a class="u-email" href="mailto:{{ site.author.email }}"
               >{{ site.author.email }}</a
-            >
-          </li>
+              >
+            </li>
+            <li class="p-name">{% include payment_button.html %}</li>
         </ul>
       </div>
       <div class="footer-col footer-col-2">
@@ -25,7 +26,6 @@
       </div> 
       <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
-        {% include payment_button.html %}
       </div>
     </div>
   </div>
