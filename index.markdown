@@ -7,7 +7,7 @@ title: fall in love with your life
 category: quotes
 ---
 
-"You've got this one opportunity to fall in love with existence. So, why not relax and enjoy your life?"
+> "You've got this one opportunity to fall in love with existence. So, why not relax and enjoy your life?"
 -- Sam Harris 
 
 
