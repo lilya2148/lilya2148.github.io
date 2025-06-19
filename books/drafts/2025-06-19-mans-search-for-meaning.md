@@ -5,7 +5,8 @@ category: books
 ---
 
 # Overview
-Insane book!!! Totally 
+Insane book!!! Frankl gives his experience as a prisoner of concentration camps in Auschwitz and Dachau. 
+
 
 ## What I Wanted Out of This Book
 I wanted a 
