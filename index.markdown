@@ -10,6 +10,5 @@ category: quotes
 "You've got this one opportunity to fall in love with existence. So, why not relax and enjoy your life?"
 Sam Harris
 
-ddd
 
 {% include payment_button.html %}
