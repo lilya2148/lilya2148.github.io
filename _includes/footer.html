@@ -20,7 +20,7 @@
         </ul>
       </div>
       <div class="footer-col footer-col-2">
-        <div class="social-links">{%- include social.html -%}</div>
+        <div class="social-media-list">{%- include social.html -%}</div>
         <!-- <ul class="social-media-list">
           <li>
             <a href="https://github.com/lukejbrennan"
@@ -43,13 +43,7 @@
         </ul>
       </div> -->
       <div class="footer-col footer-col-3">
-        <p>
-          This site is still under development. You really even shouldn&#39;t be
-          reading this. That&#39;s okay. Or just click the X in your browser. Or
-          read on. I can edit this line in _config.yml. It will appear in your
-          document head meta (for Google search results) and in your feed.xml
-          site description.
-        </p>
+        <p>{{ site.description | escape }}</p>
       </div>
     </div>
   </div>
