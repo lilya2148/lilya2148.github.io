@@ -26,6 +26,7 @@ I.
 ---
 
 <br>
+
 ​II.
 
 “Have you ever done yoga high? You’ll be like… ohhhh it’s about the breathing too! It’s just as much about the breathing…!? Is this shit all about the breathing?? Have you ever listened to jazz while doing yoga while high? You’re like - whoaaa it’s sort of the wrong notes that are right in a way."
@@ -43,6 +44,12 @@ III.
 
 “The world is full of magic: I pulled her hair from my hair. I looked at the sky from mirrors on the ground. You are with me when you're reading. I am with you now."
 
+<br>
+
+---
+
+<br>
+
 
 # 2 Random A$$ Quotes to Change Your Life
 I.
@@ -54,22 +61,16 @@ I.
 
 [This guys joke about beans](https://www.instagram.com/reel/DKuJ-XNxcQY/?igsh=MW1yNHRmNTR6aGQxaA==)
 
+<br>
+
+---
+
+<br>
+
 
 # 1 Answer For You
 Don't be depressed
 
-
-# 3 Life Changing Answers
-1. Make friends with a horse and play guitar while riding 
-2. 
-3. 
-
-# 3 Sincere Things
-1. The thing that makes me sure: I only wish I knew you sooner. I think we’d be friends as kids. 
-2. 
-3. 
-
-# 3
 
 Want to share this issue of III-II-I? Go here: 
 
