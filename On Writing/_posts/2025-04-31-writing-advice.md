@@ -16,7 +16,7 @@ category: On Writing
 1. Work on one thing at a time until finished.
 2. Start no more new books, add no more new material to ‘Black Spring.’
 3. Don’t be nervous. Work calmly, joyously, recklessly on whatever is in hand.
-​4. Work according to Program and not according to mood. Stop at the appointed time!​
+4. Work according to Program and not according to mood. Stop at the appointed time!​
 5. When you can’t create you can work.
 6. Cement a little every day, rather than add new fertilizers.
 ​7. Keep human! See people, go places, drink if you feel like it.
