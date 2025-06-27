@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Pizza man
+title: social media
 date:   2025-06-18 18:23:10 -0500
 category: [Everything I Ever Loved]
 ---

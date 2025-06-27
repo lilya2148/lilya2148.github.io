@@ -4,6 +4,8 @@ If you are going to make stylist / code changes; make a branch, homie
 otherwise if shit breaks, you're sorta screwed
 
 # To add a category
+1) Make a `<your-new-cateogry>.md` in the category folder
+2) Make a folder by the name of your category with _posts and _drafts under it
 
 # How To Publish to this site:
 
