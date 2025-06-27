@@ -1,8 +1,8 @@
 ---
 layout: base
-title: categories
+title: topics to write about
 date:   2025-06-18 18:23:10 -0500
-category: [categories]
+category: [topics]
 ---
 
 ## Existing topics 

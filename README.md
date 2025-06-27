@@ -3,6 +3,8 @@ If you are going to make stylist / code changes; make a branch, homie
 
 otherwise if shit breaks, you're sorta screwed
 
+# To add a category
+
 # How To Publish to this site:
 
 1) add a post to the home page (index.markdown), 
