@@ -1,3 +1,9 @@
+---
+layout: base
+title: I'd get protective
+date:   2025-06-18 18:23:10 -0500
+category: [Everything I Ever Loved]
+---
 I’m in love with this guy reading at the lake. 
 
 Pretty sure he’s reading. Got a glance of his phone, and there was an audiobook on it. 

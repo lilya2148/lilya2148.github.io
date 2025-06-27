@@ -1,4 +1,11 @@
-My Big Head
+---
+layout: base
+title: my big head
+date:   2025-06-18 18:23:10 -0500
+category: [Everything I Ever Loved]
+---
+
+### My Big Head
 
 Thank you for being the one
 Who told me I mattered more 
@@ -11,7 +18,8 @@ Alone - the only ones here
 And not for very long at all
 So don’t die
 Because your head was so freaking big
-Baseball
+
+### Baseball
 
 Thank you for being the one
 To escape the house alone with me
@@ -27,7 +35,8 @@ And stay in consulting
 That I may be good at it
 Thank you for making us both care about something
 Just so we could escape the house alone together
-My First 
+
+### My First Twin
 
 thank god thank god thank god you exist
 One of my twins
@@ -36,7 +45,7 @@ The first person, maybe,
 who showed me what it meant 
 to be no matter what 
 always there
-Never going to let you down, goddammit, goddammit
+Never going to let you down (goddammit, goddammit)
 
 Even when we were just kids
 You told me: depressed, I think

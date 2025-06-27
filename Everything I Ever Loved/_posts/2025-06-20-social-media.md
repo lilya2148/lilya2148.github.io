@@ -1,3 +1,9 @@
+---
+layout: base
+title: Pizza man
+date:   2025-06-18 18:23:10 -0500
+category: [Everything I Ever Loved]
+---
 So, hot take. Instagram, Tiktok… all the social medias. They’re pretty cool.
 
 I mean for sure, they are ruining us. But come one, Instagram is beautiful.
