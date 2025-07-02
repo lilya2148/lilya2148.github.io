@@ -6,22 +6,22 @@ title: "everything i did in my 20s to make money and what was good about it"
 ---
 Alrighht. This will be interesting. 
 
-Lol can you imagine - the most like, timid writer of all time, just starting everything off like that. 
+Lol can you imagine like- the most timid writer of all time, starting everything off with that? 
 
 "This will be interesting. I promise. Read on - why? It'll be interesting."
 
 ## 1) Soup Kitchen Coordinator 
 My first job, ah! The nostalgia. Didn't make much money here. Idk why this would (ever?) be included in someone's blog about how to make $$ as an entrepreneur, but alas, these are my roots. 
 
-**Was it fun?** yes? not really... but also sort of? Like it was fun to be around all the volunteers, and all my coworkers. Everyone there was there for a really good reason. So that was cool. It wasn't super fun to like, realize that things you could offer just straight up wasn't enough. Idk why, but everyone wanted a bus pass. That was like, the gold standard. And we only had 10 or so that we were supposed to pass out per day. And it was strange to say like, no you can't have one - sort of arbitrarily - after you'd given out 10. They knew you *could* give one out (and sometimes did!) if they pleaded their case well enough (need to get to a job, the doctor, etc etc)
+**Was it fun?** Yes! And not really... It was fun to be around all the volunteers, and all my coworkers. Everyone was there was committed to being there and wanted to be there. Everyone cared. So that was cool. What wasn't fun was telling people you couldn't help them. Kicking the guy out of the house when he was caught drinking, for example. Not being able to give a bus pass to someone trying to see their daughter. Idk why, but everyone wanted a bus pass
 
-**Did I make money?** Not really. Like, $200 a month and free housing. Definitely a volunteering program. 
+We were only supposed to hand out like 10 per day or something, and it was strange to say like, no you can't have one - sort of arbitrarily - after you'd given out 10. People knew you *could* give one out (and sometimes did!) if they pleaded their case well enough (need to get to a job, the doctor, etc etc)
+
+**Did I make money?** $200 a month and free housing. Definitely a volunteering program. 
 
 **Things I learned**
-
-1) So much inefficiency! - Literally once we had volunteers move cloths from one area to another, and then the next set of volunteers we had them move the clothes back. What!?!?! We also straight up denied a school teacher all the bread his students made for the soup kitchen (should have called ahead! We don't really take bread, buddy!). I'd just spent an hour throwing away the 3-4 bins of moldy bread we had, washing the bins, and reloading it with bread that wasn't moldy. And then this guy showed up. 
-
-2) It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
+- So much inefficiency! - Literally once we had volunteers move cloths from one area to another, and then the next set of volunteers we had them move the clothes back. What!?!?! We also straight up denied a school teacher all the bread his students made for the soup kitchen (should have called ahead! We don't really take bread, buddy!). I'd just spent an hour throwing away the 3-4 bins of moldy bread we had, washing the bins, and reloading it with bread that wasn't moldy. And then this guy showed up. 
+- It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
 
 
 ## 2) stand up 
@@ -48,8 +48,8 @@ The times where it did feel cool / worth it / fun were either when I got paid we
 
 **Was it meaningful?** There were definitely some jobs here that were meaningful, at least for me. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do. 
 
-## 4) Musician - 
-Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
+## 4) Music
+On the street baby. Music on the street.Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
 
 ## 6) Data Engineer 
 ahhh the "real" jobs. These were the jobs that made me money while I was trying to decide what to do. Definitely made money here, lol. But it was classic: cog in a machine, whatever work that I'd end up spending my whole life on by accident. 
@@ -72,8 +72,8 @@ yeaaaah pretty much the coolest job I ever had. Kind of. I was the do-it-all guy
 ughhhh is it possible to get more cringy than this? I literally tried to do this. I tried to sell a freelance writing course. After taking a freelance writing course. 
 
 **Things I learned:** 
-1) it felt really cringy and gross to email everyone that I had an email for
-2) no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
+- it felt really cringy and gross to email everyone that I had an email for
+- no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
 
 ## 10) Deli man
 I worked at a deli during the pandemic, after I left my job in consulting. 
