@@ -20,17 +20,18 @@ We were only supposed to hand out like 10 per day or something, and it was stran
 **Did I make money?** $200 a month and free housing. Definitely a volunteering program. 
 
 **Things I learned**
-- So much inefficiency! - Literally once we had volunteers move cloths from one area to another, and then the next set of volunteers we had them move the clothes back. What!?!?! We also straight up denied a school teacher all the bread his students made for the soup kitchen (should have called ahead! We don't really take bread, buddy!). I'd just spent an hour throwing away the 3-4 bins of moldy bread we had, washing the bins, and reloading it with bread that wasn't moldy. And then this guy showed up. 
-- It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
-
+- So much inefficiency! - Literally once we had volunteers move cloths from one area to another, just to have the next set of volunteers move them back. What!?!?! 
+- It's not all about efficiency... - ugh... the most useful thing I think I did was go to the hospital with a guest whose big toe had to be amputated because she had diabetes and nerve damage and didn't feel that it was rotting / super infected. 
 
 ## 2) stand up 
-Tecchhnically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. It wasn't uncommon to wait 2 hours for 5 minutes of stage time, and sometimes, you were just performing in front of the other comics, who'd also just bombed.
+Tecchhnically didn't make any money here. I went 14 times and definitely was getting better! It was a total grind though. It wasn't uncommon to wait 2 hours for 5 minutes of stage time, and sometimes, you were just performing in front of the other comics, including the ones that just bombed. 
 
-**Closest I came to making money:** 
-I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
+**Closest I came to making money:** I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
 
-**Thing I'd do differently:** Find a mic or two just to practice / workshop jokes, practice for friends & family, and then just go to an actually good and fun open mic with a real audience and not just comics.  
+**Thing I'd do differently:** 
+- Find a mic or two just to practice / workshop jokes
+- Practice for friends & family! I think it'd feel awkward, but! you really just need to practice talking through jokes, and seeing if they make people laugh.
+- After that? Just go to an actually good and fun open mic with a real audience
 
 ## 3) Freelance Writing 
 NGL this one was pretty rough haha. It was so much work, both to write the piece, and to pitch people to get the article. I would roughly get like, 1 pitch accpeted out of 20 sent out. For me, too, it took me like an hour minimum to think of and write a good pitch. Each accepted pitch was usually to write a 1-2k piece (4-8 hours to write), and would pay about $200 (in three months*). All in all, it would take me about 28 hours to get $200-300 (realistically, you'd get paid in a month).
