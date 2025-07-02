@@ -70,7 +70,7 @@ I'd want a better plan of a) how the freak am I going to get ocntracts. Literall
 
 I'd also spend some time putting together a website / portfolio and maybe connect that to a social media account where I did lil coding projects on the side. Could be fun! 
 
-## 8) General Manager for a sports team 
+## 8) worked for a sports team 
 yeaaaah pretty much the coolest job I ever had. Kind of. I was the do-it-all guy, including the camp counselor for our sports camps. It was fun, but a lot of work, and it did not pay much. I had this job when I was tanking after the freelance biz was slowly dying, so it was good to just make ends meet. But ultimately it was so much work, and I wasn't getting paid very much. Pretty quickly needed to eject out of this one to find a higher paying job. 
 
 ## 9) Online course teacher 
