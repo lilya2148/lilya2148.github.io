@@ -26,7 +26,9 @@ We were only supposed to hand out like 10 per day or something, and it was stran
 ## 2) stand up 
 Tecchhnically didn't make any money here. I went 14 times and definitely was getting better! It was a total grind though. It wasn't uncommon to wait 2 hours for 5 minutes of stage time, and sometimes, you were just performing in front of the other comics, including the ones that just bombed. 
 
-**Closest I came to making money:** I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
+**Was it fun?** Yes and no... Writing jokes was fun! And getting laughs was fun. Bombing was awful. Waiting was boring. 
+
+**Did I make money:** Narrr. Closest I came was after a good set, the host asked I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" And it's probably for the best.. because I really didn't haha. But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots for that mic.
 
 **Thing I'd do differently:** 
 - Find a mic or two just to practice / workshop jokes
@@ -34,26 +36,37 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 - After that? Just go to an actually good and fun open mic with a real audience
 
 ## 3) Freelance Writing 
-NGL this one was pretty rough haha. It was so much work, both to write the piece, and to pitch people to get the article. I would roughly get like, 1 pitch accpeted out of 20 sent out. For me, too, it took me like an hour minimum to think of and write a good pitch. Each accepted pitch was usually to write a 1-2k piece (4-8 hours to write), and would pay about $200 (in three months*). All in all, it would take me about 28 hours to get $200-300 (realistically, you'd get paid in a month).
+This one was tough! This is the second highest paying job that I gave myself, and it was a lot of work. Writing the piece itself took me 4-8 hours, depending on what it was, but the real work (for me) was getting someone to pay you. 
+
+To get a piece "accepted" you would pitch your idea or sometimes the whole essay / article / poem (whatever) to the publication. My acceptance rate was around 1/20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. 
 
 All that said, this was a hard one to do and *expect* to make a living on. I think it'd take a couple months of building up a pipeline / habit (where you're losing $$ every month) to do this effectively.
 
 The times where it did feel cool / worth it / fun were either when I got paid well (one place paid me $800 for an essay! soemthing that I'd written just for fun!) or I didn't expect to get paid or published at all (made $50 for a poem, what?)
 
+**Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche newspaper of all time, writing about climate change tech. That was fine. But they pretty much always accepted my pitches, so it was a free $200. I got $50 for a poem, $50 to write about pizza (dream come true), and $800 for a personal essay.  
+
+**Did I have fun?** Yes and no! It was fun to write humor pieces, or essays... it wasn't super fun to write about the new tech news in nuclear fission or whatever. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do. 
+
 **Things I'd do differently** 
 - only pitch things I really really wanted to write
-- not rely on it for a primary source of income
-- target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was wroth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you credibility as a writer. Depending on your goals, I think it does make sense to try to get published at these places.
-
-**Did I have fun?** again, sort of! It was fun to write humor pieces, or essays... it wasn't super fun to write about the new tech news in nuclear fission or whatever.
-
-**Was it meaningful?** There were definitely some jobs here that were meaningful, at least for me. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do. 
+- not rely on it for a primary source of income (at least for the first couple (6) months)
+- target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was worth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you writer street cred. So that's cool 
 
 ## 4) Music
-On the street baby. Music on the street.Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
+On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
+
+No fun. No money. 
 
 ## 6) Data Engineer 
 ahhh the "real" jobs. These were the jobs that made me money while I was trying to decide what to do. Definitely made money here, lol. But it was classic: cog in a machine, whatever work that I'd end up spending my whole life on by accident. 
+
+**Was it fun** sometimes! 
+**did I make money?** yep...
+**Things I'd do differently**
+- Can I say, not take it too seriously? At least, don't let it take over you life. Find a way to pursue side projects in the morning. Let it be your money maker to fund your other projects
+- Enjoy the good parts? The getting paid on a schedule, the freedom to buy things like lunch, the office coffee, the office chit chat and happy hours
+- Prioritize doing something fun after work so you don't feel like a total work machine. 
 
 ## 7) Freelance Developer
 This one was cool! I got one contract where I was paid pretty well, and the people I worked with were cool. This was the first time I felt like I actually liked coding. I spent hours and hours making an app, and it turned out pretty good! I'd never made an app before, so it was all hands on deck, and we went real fast. I loved the flexibility, freedom, and ownership I felt while working, and this is something where - if the projects just kept coming, I would keep doing it. 
