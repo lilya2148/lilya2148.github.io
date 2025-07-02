@@ -25,14 +25,14 @@ My first job, ah! The nostalgia. Didn't make much money here. Idk why this would
 
 
 ## 2) stand up 
-Tecchhnically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. Often times you had to wait 2 hours to get 5 minutes of stage time, and sometimes that was just to perform in front of comics who were depressed bc they just bombed. 
+Tecchhnically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. It wasn't uncommon to wait 2 hours for 5 minutes of stage time, and sometimes, you were just performing in front of the other comics, who'd also just bombed.
 
 **Closest I came to making money:** 
 I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
 
 **Thing I'd do differently:** Find a mic or two just to practice / workshop jokes, practice for friends & family, and then just go to an actually good and fun open mic with a real audience and not just comics.  
 
-## 3) (Freelance) Reporter / Writer / Poet?! / Humorist
+## 3) Freelance Writing 
 NGL this one was pretty rough haha. It was so much work, both to write the piece, and to pitch people to get the article. I would roughly get like, 1 pitch accpeted out of 20 sent out. For me, too, it took me like an hour minimum to think of and write a good pitch. Each accepted pitch was usually to write a 1-2k piece (4-8 hours to write), and would pay about $200 (in three months*). All in all, it would take me about 28 hours to get $200-300 (realistically, you'd get paid in a month).
 
 All that said, this was a hard one to do and *expect* to make a living on. I think it'd take a couple months of building up a pipeline / habit (where you're losing $$ every month) to do this effectively.
@@ -44,13 +44,9 @@ The times where it did feel cool / worth it / fun were either when I got paid we
 - not rely on it for a primary source of income
 - target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was wroth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you credibility as a writer. Depending on your goals, I think it does make sense to try to get published at these places.
 
-**Did I have fun?** 
+**Did I have fun?** again, sort of! It was fun to write humor pieces, or essays... it wasn't super fun to write about the new tech news in nuclear fission or whatever.
 
-not... really
-
-**Was it meaningful?** 
-
-Sort of! I wrote two pieces about people living on the street in Seattle. Both of these were really important and impactful for me personally. 
+**Was it meaningful?** There were definitely some jobs here that were meaningful, at least for me. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do. 
 
 ## 4) Musician - 
 Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
