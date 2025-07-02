@@ -6,22 +6,22 @@ title: "everything i did in my 20s to make money and what was good about it"
 ---
 Alrighht. This will be interesting. 
 
-Lol can you imagine like- the most timid writer of all time, starting everything off with that? 
+Lol can you imagine the most timid writer of all time, starting everything off with that? 
 
-"This will be interesting. I promise. Read on - why? It'll be interesting."
+"This will be interesting. I promise. No keep reading. It'll be good." 
+
+The order here is *roughly* chronological...
 
 ## 1) Soup Kitchen Coordinator 
 My first job, ah! The nostalgia. Didn't make much money here. Idk why this would (ever?) be included in someone's blog about how to make $$ as an entrepreneur, but alas, these are my roots. 
 
-**Was it fun?** Yes! And not really... It was fun to be around all the volunteers, and all my coworkers. Everyone was there was committed to being there and wanted to be there. Everyone cared. So that was cool. What wasn't fun was telling people you couldn't help them. Kicking the guy out of the house when he was caught drinking, for example. Not being able to give a bus pass to someone trying to see their daughter. Idk why, but everyone wanted a bus pass
-
-We were only supposed to hand out like 10 per day or something, and it was strange to say like, no you can't have one - sort of arbitrarily - after you'd given out 10. People knew you *could* give one out (and sometimes did!) if they pleaded their case well enough (need to get to a job, the doctor, etc etc)
+**Was it fun?** Yes! And not really... Everyone there was committed to being there and wanted to be there. Everyone cared. So that was cool. It wasn't fun when you had to deny someone help they needed. We had to kick someone out of our transitional housing program when he was caught drinking. Not being able to give a bus pass to someone trying to see their daughter. 
 
 **Did I make money?** $200 a month and free housing. Definitely a volunteering program. 
 
 **Things I learned**
-- So much inefficiency! - Literally once we had volunteers move cloths from one area to another, just to have the next set of volunteers move them back. What!?!?! 
-- It's not all about efficiency... - ugh... the most useful thing I think I did was go to the hospital with a guest whose big toe had to be amputated because she had diabetes and nerve damage and didn't feel that it was rotting / super infected. 
+- So much inefficiency! - once we literally had volunteers move clothes from one area to another, just to have the next set of volunteers move them back. What!?!?! 
+- It's not all about efficiency... - ugh... the most useful thing I did was go to the hospital with a guest whose big toe had to be amputated. She had Diabetic neuropathy and couldn't feel that the wound on her big toe was rotting / super infected. 
 
 ## 2) stand up 
 Tecchhnically didn't make any money here. I went 14 times and definitely was getting better! It was a total grind though. It wasn't uncommon to wait 2 hours for 5 minutes of stage time, and sometimes, you were just performing in front of the other comics, including the ones that just bombed. 
@@ -32,17 +32,13 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 
 **Thing I'd do differently:** 
 - Find a mic or two just to practice / workshop jokes
-- Practice for friends & family! I think it'd feel awkward, but! you really just need to practice talking through jokes, and seeing if they make people laugh.
+- Practice for friends & family! I think it'd feel awkward, but actually be kind of helpful. I feel like I really just needed to practice talking through jokes, and seeing if they were remotely funny. 
 - After that? Just go to an actually good and fun open mic with a real audience
 
 ## 3) Freelance Writing 
-This one was tough! This is the second highest paying job that I gave myself, and it was a lot of work. Writing the piece itself took me 4-8 hours, depending on what it was, but the real work (for me) was getting someone to pay you. 
+This one was tough! This is the second highest paying job that I gave myself, and it was a lot of work. Writing the piece itself would usually take me 4-8 hours, depending on what it was, but the real work (for me) was getting someone to pay you. 
 
-To get a piece "accepted" you would pitch your idea or sometimes the whole essay / article / poem (whatever) to the publication. My acceptance rate was around 1/20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. 
-
-All that said, this was a hard one to do and *expect* to make a living on. I think it'd take a couple months of building up a pipeline / habit (where you're losing $$ every month) to do this effectively.
-
-The times where it did feel cool / worth it / fun were either when I got paid well (one place paid me $800 for an essay! soemthing that I'd written just for fun!) or I didn't expect to get paid or published at all (made $50 for a poem, what?)
+To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1/20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. 
 
 **Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche newspaper of all time, writing about climate change tech. That was fine. But they pretty much always accepted my pitches, so it was a free $200. I got $50 for a poem, $50 to write about pizza (dream come true), and $800 for a personal essay.  
 
@@ -51,7 +47,7 @@ The times where it did feel cool / worth it / fun were either when I got paid we
 **Things I'd do differently** 
 - only pitch things I really really wanted to write
 - not rely on it for a primary source of income (at least for the first couple (6) months)
-- target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was worth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you writer street cred. So that's cool 
+- target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was worth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you writer street cred. So that's cool. 
 
 ## 4) Music
 On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
