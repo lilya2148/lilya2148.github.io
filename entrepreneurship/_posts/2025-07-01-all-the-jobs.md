@@ -13,13 +13,12 @@ Lol can you imagine - the most like, timid writer of all time, just starting eve
 ## 1) Soup Kitchen Coordinator 
 My first job, ah! The nostalgia. Didn't make much money here. Idk why this would (ever?) be included in someone's blog about how to make $$ as an entrepreneur, but alas, these are my roots. 
 
-**Was it fun?** 
-yes? not really, but sort of? Like it was fun to be around all the volunteers, and all my coworkers. Everyone there was there for a really good reason. So that was cool. 
+**Was it fun?** yes? not really... but also sort of? Like it was fun to be around all the volunteers, and all my coworkers. Everyone there was there for a really good reason. So that was cool. It wasn't super fun to like, realize that things you could offer just straight up wasn't enough. Idk why, but everyone wanted a bus pass. That was like, the gold standard. And we only had 10 or so that we were supposed to pass out per day. And it was strange to say like, no you can't have one - sort of arbitrarily - after you'd given out 10. They knew you *could* give one out (and sometimes did!) if they pleaded their case well enough (need to get to a job, the doctor, etc etc)
 
-**Did I make money?** 
-yes? but not really. Like, $200 a month and free housing. Definitely a volunteering program. 
+**Did I make money?** Not really. Like, $200 a month and free housing. Definitely a volunteering program. 
 
 **Things I learned**
+
 1) So much inefficiency! - Literally once we had volunteers move cloths from one area to another, and then the next set of volunteers we had them move the clothes back. What!?!?! We also straight up denied a school teacher all the bread his students made for the soup kitchen (should have called ahead! We don't really take bread, buddy!). I'd just spent an hour throwing away the 3-4 bins of moldy bread we had, washing the bins, and reloading it with bread that wasn't moldy. And then this guy showed up. 
 
 2) It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
@@ -73,7 +72,7 @@ I'd also spend some time putting together a website / portfolio and maybe connec
 ## 8) worked for a sports team 
 yeaaaah pretty much the coolest job I ever had. Kind of. I was the do-it-all guy, including the camp counselor for our sports camps. It was fun, but a lot of work, and it did not pay much. I had this job when I was tanking after the freelance biz was slowly dying, so it was good to just make ends meet. But ultimately it was so much work, and I wasn't getting paid very much. Pretty quickly needed to eject out of this one to find a higher paying job. 
 
-## 9) Online course teacher 
+## 9) ~ Online Course ~
 ughhhh is it possible to get more cringy than this? I literally tried to do this. I tried to sell a freelance writing course. After taking a freelance writing course. 
 
 **Things I learned:** 
