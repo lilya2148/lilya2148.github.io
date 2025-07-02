@@ -80,11 +80,13 @@ ughhhh is it possible to get more cringy than this? I literally tried to do this
 1) it felt really cringy and gross to email everyone that I had an email for
 2) no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
 
-## 10) Deli man - 
+## 10) Deli man
 I worked at a deli during the pandemic, after I left my job in consulting. 
 
 ## 11) Uber Eats
+Truly learned the meaning of risk here... It only took a couple of times of almost getting railed by a car to decide that 1) I wasn't making enough money to justify 2) if i got wrecked in a car accident, I'd have to pay out my ass in medical bills (since my deductible was like 12k on my shitty health insurance). 
 
+But! It was sort of a fun gig! I enjoyed biking around, and it was fun to see knew bakeries and such. I would 100p get one of those big boxy bags if I were going to do this again. 
 
 
 
