@@ -19,7 +19,7 @@ yes? not really, but sort of? Like it was fun to be around all the volunteers, a
 **Did I make money?** 
 yes? but not really. Like, $200 a month and free housing. Definitely a volunteering program. 
 
-#### Things I learned
+**Things I learned**
 1) So much inefficiency! - Literally once we had volunteers move cloths from one area to another, and then the next set of volunteers we had them move the clothes back. What!?!?! We also straight up denied a school teacher all the bread his students made for the soup kitchen (should have called ahead! We don't really take bread, buddy!). I'd just spent an hour throwing away the 3-4 bins of moldy bread we had, washing the bins, and reloading it with bread that wasn't moldy. And then this guy showed up. 
 
 2) It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
@@ -28,7 +28,8 @@ yes? but not really. Like, $200 a month and free housing. Definitely a volunteer
 ## 2) stand up 
 Tecchhnically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. Often times you had to wait 2 hours to get 5 minutes of stage time, and sometimes that was just to perform in front of comics who were depressed bc they just bombed. 
 
-**Closest I came to making money:** I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
+**Closest I came to making money:** 
+I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
 
 **Thing I'd do differently:** Find a mic or two just to practice / workshop jokes, practice for friends & family, and then just go to an actually good and fun open mic with a real audience and not just comics.  
 
@@ -43,9 +44,13 @@ The times where it did feel cool / worth it / fun were either when I got paid we
 - only pitch things I really really wanted to write
 - not rely on it for a primary source of income
 - target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was wroth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you credibility as a writer. Depending on your goals, I think it does make sense to try to get published at these places.
+
 **Did I have fun?** 
+
 not... really
+
 **Was it meaningful?** 
+
 Sort of! I wrote two pieces about people living on the street in Seattle. Both of these were really important and impactful for me personally. 
 
 ## 4) Musician - 
@@ -60,6 +65,7 @@ This one was cool! I got one contract where I was paid pretty well, and the peop
 Alas, a big part of freelancing is getting the work, and that's the part that I wasn't good at and honestly, didn't even think that I'd have to do... What?! Looking back it seems so stupid. Of course you're going to have to get work!! Ugh. The first gig I got was from a co-worker. After that, I got another contract from a friend, but all in all, I just wasn't able to spend enough time developing *AND* getting future work. 
 
 **If I were going to do it again**
+
 I'd want a better plan of a) how the freak am I going to get ocntracts. Literally, what am I going to try to do to get people to pay me to code. And b) have a backup plan if the projects didn't come in for a couple months. 
 
 I'd also spend some time putting together a website / portfolio and maybe connect that to a social media account where I did lil coding projects on the side. Could be fun! 
@@ -70,7 +76,7 @@ yeaaaah pretty much the coolest job I ever had. Kind of. I was the do-it-all guy
 ## 9) Online course teacher 
 ughhhh is it possible to get more cringy than this? I literally tried to do this. I tried to sell a freelance writing course. After taking a freelance writing course. 
 
-Things I learned: 
+**Things I learned:** 
 1) it felt really cringy and gross to email everyone that I had an email for
 2) no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
 
