@@ -25,8 +25,8 @@ yes? but not really. Like, $200 a month and free housing. Definitely a volunteer
 2) It's not all about efficiency... - ugh... the most useful thing I think I did here was go to the hospital with one of guests, who had to get her big toe amputated because she had diabetes and nerve damage in her toe and didn't feel that it was rotting / super infected. 
 
 
-## 2) stand up comedian 
-Technically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. Often times you had to wait 2 hours to get 5 minutes of stage time, and sometimes that was just to perform in front of comics who were depressed bc they just bombed. 
+## 2) stand up 
+Tecchhnically didn't make any money here. I went 14 times, and I definitely was getting better! It was a total grind though. Often times you had to wait 2 hours to get 5 minutes of stage time, and sometimes that was just to perform in front of comics who were depressed bc they just bombed. 
 
 **Closest I came to making money:** I had a single good set where someone asked if I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots
 
@@ -43,8 +43,10 @@ The times where it did feel cool / worth it / fun were either when I got paid we
 - only pitch things I really really wanted to write
 - not rely on it for a primary source of income
 - target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was wroth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you credibility as a writer. Depending on your goals, I think it does make sense to try to get published at these places.
-**Did I have fun?** not... really
-**Was it meaningful?** Sort of! I wrote two pieces about people living on the street in Seattle. Both of these were really important and impactful for me personally. 
+**Did I have fun?** 
+not... really
+**Was it meaningful?** 
+Sort of! I wrote two pieces about people living on the street in Seattle. Both of these were really important and impactful for me personally. 
 
 ## 4) Musician - 
 Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
@@ -73,7 +75,7 @@ Things I learned:
 2) no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
 
 ## 10) Deli man - 
-I worked at a deli
+I worked at a deli during the pandemic, after I left my job in consulting. 
 
 ## 11) Uber Eats
 
@@ -81,4 +83,5 @@ I worked at a deli
 
 
 *kidding!**
+
 **kind of
