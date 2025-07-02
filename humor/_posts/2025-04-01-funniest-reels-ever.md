@@ -1,7 +1,7 @@
 ---
 layout: base
 date:   2025-04-08 07:13:00 -0500
-category: [really good ideas]
+category: [humor]
 title: "funniest reels"
 ---
 These are my favorite reels of all time: 
