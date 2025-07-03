@@ -28,7 +28,7 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 
 **Was it fun?** Yes and no... Writing jokes was fun! And getting laughs was fun. Bombing was awful. Waiting was boring. 
 
-**Did I make money:** Narrr. Closest I came was after a good set, the host asked I had 10 minutes of material. Apparenetly I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" And it's probably for the best.. because I really didn't haha. But I feel like if I just cooly nodded... maybe he would have given me one of the paid 10 minute slots for that mic.
+**Did I make money:** Narrr. Once after a good set, the host asked if I had 10 minutes of material. That was the closest I ever came... Apparently I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" And it was probably for the best... I really didn't 10 minutes haha. But I feel like if I had just cooly nodded... maybe he would have given me one of the paid 10 minute slots.
 
 **Thing I'd do differently:** 
 - Find a mic or two just to practice / workshop jokes
@@ -38,9 +38,9 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 ## 3) Freelance Writing 
 This one was tough! This is the second highest paying job that I gave myself, and it was a lot of work. Writing the piece itself would usually take me 4-8 hours, depending on what it was, but the real work (for me) was getting someone to pay you. 
 
-To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1/20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. 
+To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1 in 20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. 
 
-**Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche newspaper of all time, writing about climate change tech. That was fine. But they pretty much always accepted my pitches, so it was a free $200. I got $50 for a poem, $50 to write about pizza (dream come true), and $800 for a personal essay.  
+**Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche newspaper of all time, writing about climate change tech. That was fine. But they pretty much always accepted my pitches, so it was a free $200. I got $50 for a poem, $50 to write about pizza (dream come true), and $800 for a personal essay. In total, I want to say I made around $5k freelance writing (over the course of like, 2-3 years). 
 
 **Did I have fun?** Yes and no! It was fun to write humor pieces, or essays... it wasn't super fun to write about the new tech news in nuclear fission or whatever. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do. 
 
@@ -50,49 +50,76 @@ To get a piece "accepted" you have to email your idea or sometimes the whole ess
 - target high-paying or high-leverage pubs. One pub paid me $800 for an essay. Now that was worth it! Other pubs, like the New York Times, The New Yorker, New -- anything with New York in the title -- will give you writer street cred. So that's cool. 
 
 ## 4) Music
-On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
+On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it fam. It was pretty embarassing, I got a note wrong on like silent night and left haha. 
 
 No fun. No money. 
 
-## 6) Data Engineer 
-ahhh the "real" jobs. These were the jobs that made me money while I was trying to decide what to do. Definitely made money here, lol. But it was classic: cog in a machine, whatever work that I'd end up spending my whole life on by accident. 
+## 6) Data Engineering
+ahhh the "real" jobs. These jobs made me money while I was trying to decide what to do. They were the classic cog-in-machine jobs doing whatever work, which I felt (if I weren't careful!), I could spend my whole life on by accident. 
 
 **Was it fun** sometimes! 
-**did I make money?** yep...
+
+**did I make money?** yes
+
 **Things I'd do differently**
-- Can I say, not take it too seriously? At least, don't let it take over you life. Find a way to pursue side projects in the morning. Let it be your money maker to fund your other projects
-- Enjoy the good parts? The getting paid on a schedule, the freedom to buy things like lunch, the office coffee, the office chit chat and happy hours
-- Prioritize doing something fun after work so you don't feel like a total work machine. 
+- Can I say, not take it *as* seriously? At least, I wouldn't let it take over my life, and I'd want to make sure it didn't take up much of my mental space. Like, don't worry about work after work, you know? 
+- Find a way to pursue other side projects (sic: payed opportunities). Whether it's before work, at lunch, during work, etc etc. Let the job be your money maker to fund your other shit.
+- Enjoy the good parts? The getting paid on a schedule part, the freedom to buy things like lunch, the office coffee, the office chit chat and happy hours. You won't get that stuff when you're out in the field, on your own. So enjoy it while you have it!
+- Prioritize doing something fun after work so you don't feel like a total work machine. This feels like, just... go life advice lol. 
 
 ## 7) Freelance Developer
-This one was cool! I got one contract where I was paid pretty well, and the people I worked with were cool. This was the first time I felt like I actually liked coding. I spent hours and hours making an app, and it turned out pretty good! I'd never made an app before, so it was all hands on deck, and we went real fast. I loved the flexibility, freedom, and ownership I felt while working, and this is something where - if the projects just kept coming, I would keep doing it. 
+This one was cool! I got one contract where I was paid pretty well, and the people I worked with were cool. This was the first time I felt like I actually *liked* coding. I spent hours and hours making this app, and it turned out pretty good! I'd never made an app before, so it was all hands on deck, and the original contract was for three months, so we had to go fast! I loved the flexibility, freedom, and ownership I felt while working, and this is something where - if the projects just kept coming, I would keep doing it. 
 
-Alas, a big part of freelancing is getting the work, and that's the part that I wasn't good at and honestly, didn't even think that I'd have to do... What?! Looking back it seems so stupid. Of course you're going to have to get work!! Ugh. The first gig I got was from a co-worker. After that, I got another contract from a friend, but all in all, I just wasn't able to spend enough time developing *AND* getting future work. 
+Alas, a big part of freelancing in any field (I learned...) is getting the work, and that's the part that I wasn't good at and honestly, didn't even think about until it was WAY too late. The first gig I got was from a co-worker. I got another contract from a friend, but all in all, I just wasn't able to spend enough time developing *AND* getting future work. 
+
+**fun?** yeah! **paid?** yeah!
 
 **If I were going to do it again**
-
-I'd want a better plan of a) how the freak am I going to get ocntracts. Literally, what am I going to try to do to get people to pay me to code. And b) have a backup plan if the projects didn't come in for a couple months. 
-
-I'd also spend some time putting together a website / portfolio and maybe connect that to a social media account where I did lil coding projects on the side. Could be fun! 
+- I'd want a better plan of a) how the freak am I going to get contracts. Literally, what am I going to do. How am I going to get sales. And b) have a backup plan if the projects didn't come in for a couple months. 
+- Spend some time putting together a website / portfolio and maybe connect that to a social media account where I did lil coding projects just on the side. Could be fun! 
 
 ## 8) worked for a sports team 
-yeaaaah pretty much the coolest job I ever had. Kind of. I was the do-it-all guy, including the camp counselor for our sports camps. It was fun, but a lot of work, and it did not pay much. I had this job when I was tanking after the freelance biz was slowly dying, so it was good to just make ends meet. But ultimately it was so much work, and I wasn't getting paid very much. Pretty quickly needed to eject out of this one to find a higher paying job. 
+yeaaaah pretty much the coolest job I ever had. Kind of. I was a do-it-all guy, including running our youth sports camps. It was fun, but a lot of work, and it did not pay much. I had this job when I was tanking after the freelance biz tanked, so it was good to just make ends meet. It was cool though to be a part of a small team that did a lot of work. I got to manage a social media team! How fun! 
+
+The hardest part here was the project management side of things. There were so many initiatives, and so many things that needed to get done (like, 100p had to be done today kind of things) as well as work that we were trying to do to bump our revenue and fan base. Balancing all that was a challenge. Fun? At times... Paid, yes. 
+
+**Things I learned**
+- buffer exists! It was cool to see a whole social media plan in action. 
+- the value of having someone who loves what they do and is good at it... we had one social media guy who was just on top of his shit, and good at it. And that rocked. It was great to work with him, and now, I think he's doing like, real social media work. 
 
 ## 9) ~ Online Course ~
-ughhhh is it possible to get more cringy than this? I literally tried to do this. I tried to sell a freelance writing course. After taking a freelance writing course. 
+ughhhh is it possible to get more cringy than this? I literally tried to do this. I tried to sell a freelance writing course. After taking a freelance writing course. What?
+
+**Did I make money??** No! ugh! why would anyone buy from you!!
+
+**Was it fun??** Okay actually kind of. It took me a solid day to set everything up. Solid like 8 hours, let's say. And as I was working, it was cool to like, think of the possibility that the whole thing might work. It was an effort to get everything set up. I think the hardest part was getting all my copy right. Like trying to make my email sound good, trying to make my website sound good. Trying to make good ads essentially. 
 
 **Things I learned:** 
 - it felt really cringy and gross to email everyone that I had an email for
-- no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and no one m
+- no one bought it or even came close to buying it. You can set up a funnel in 24 hours with a landing page and a site and everything and there's a chance no one will buy. I feel like whenever I watch a certain subset of the internet, I get the feeling that a million dollars is just a canva digital product away. And I think that *can* be true. But... you've got to have like... a really good... everything. A good product, good ads, good email copy... 
 
 ## 10) Deli man
-I worked at a deli during the pandemic, after I left my job in consulting. 
+I worked at a deli during the pandemic, after I left my job in consulting. It took me about a month before I learned that I wasn't going to make money by writing articles on Medium (the first iteration of freelance writing...). I got this job, and decided to write a novel while working there. 
+
+**Money?** yeet
+
+**Was it fun?** Honestly yeah kind of. It felt good too, to be writing in the morning then go to the deli in the afternoon. Like that was a good vibe. I would write, then show up and wash dishes for hours, then eventually start making sandos and things. 
+
+**Things I learned** 
+- How to wrap a burrito lol. 
+- The mayo to garlic ratio on like... 4 gallons of garlic aoili (for all intents and purposes it's like... 100% mayo)
+- They're gonna want you to come in even if there's a pandemic and if someone gets sick and you're worried about them getting you sick, they're still gonna want you to show up. 
+- Independent of the job, it takes like, a while before you're operating on autopilot / feel confident enough to just be the usual you at work. The learning phase is always a little uncomfy. 
 
 ## 11) Uber Eats
-Truly learned the meaning of risk here... It only took a couple of times of almost getting railed by a car to decide that 1) I wasn't making enough money to justify 2) if i got wrecked in a car accident, I'd have to pay out my ass in medical bills (since my deductible was like 12k on my shitty health insurance). 
+Yeet - also when I was trying to do freelance work, but not getting enough work. It was maybe a little hard to get enough hours. So that was one thing. You could really only make it make sense during the lunch hour and/or around dinner. 
 
-But! It was sort of a fun gig! I enjoyed biking around, and it was fun to see knew bakeries and such. I would 100p get one of those big boxy bags if I were going to do this again. 
+**was it fun?** Yeah! It was sort of a fun gig! I enjoyed biking around, and it was fun to see knew bakeries and such. I would 100p get one of those big boxy bags if I were going to do this again. 
 
+**money?** actually not bad. It was like $20 an hour, and sometimes tips made it like $22 a hour, which always felt good. Plus you got paid like immediately. 
+
+**Things I learned**
+- Risk == consequence / likelihood of it happening... it only took a couple of close calls with cars to realize that a) I wasn't making nearly enough money to justify the risk of getting wrecked in an accident b) I'd have to pay out the ass in insurance because I was on Medicaid (pretty sure my deductible was like 12k) and c) if I was going to bike all day everyday then I was exposing myself to like... the possibility of getting seriously injured pretty much all the time. 
 
 
 *kidding!**
