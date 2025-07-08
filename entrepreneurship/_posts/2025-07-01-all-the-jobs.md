@@ -33,19 +33,19 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 
 **Was it fun?** Yes and no... Writing jokes was fun! And getting laughs was fun. Bombing was awful. Waiting was boring.
 
-**Did I make money:** Narrr. Once after a good set, the host asked if I had 10 minutes of material. That was the closest I ever came... Apparently I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" And it was probably for the best... I really didn't 10 minutes haha. But I feel like if I had just cooly nodded... maybe he would have given me one of the paid 10 minute slots.
+**Did I make money:** Narrr. Once after a good set, the host asked if I had 10 minutes of material. That was the closest I ever came... Apparently I too eagerly said, uh what yes yes yes I do yes please, because he was like "No you don't!" And it was probably for the best... I really didn't have 10 minutes haha. But I feel like if I had just cooly nodded... maybe he would have given me one of the paid 10 minute slots.
 
-**Thing I'd do differently:**
+**What I'd do differently:**
 
 - Find a mic or two just to practice / workshop jokes
-- Practice for friends & family! I think it'd feel awkward, but actually be kind of helpful. I feel like I really just needed to practice talking through jokes, and seeing if they were remotely funny.
+- Practice for friends & family! I think it'd feel awkward, but actually be kind of helpful. Gary Gulman practiced in front of kids as a substitute teacher. I feel like I really just needed to practice talking through jokes, and seeing if they were remotely funny.
 - After that? Just go to an actually good and fun open mic with a real audience
 
 ## 3) Freelance Writing
 
 This was the second highest paying job that I gave myself, and it was a lot of work. The writing would usually take me 4-8 hours, depending on what it was, but the real work was getting a piece accepted somewhere.
 
-To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1 in 20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. Add on the fact that sometimes publications would take a month or two to send you a check, and you can see why the financial side of this one could be kind of rough. 
+To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1 in 20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. Add on the fact that sometimes publications would take a month or two to send you a check, and you can see how this could get pretty dicey money-wise.
 
 **Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche magazine of all time (writing about technology to mitigate climate change with a conservative slant?). That was fine. But they pretty much always accepted my pitches, so I pitched and wrote here often. I got $50 for a poem, $50 to write about pizza (a dream come true), and $800 for a personal essay. In total, I want to say I made around $2-3k freelance writing (over the course of like, 2-3 years).
 
