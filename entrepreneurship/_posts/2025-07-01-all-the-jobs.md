@@ -156,17 +156,14 @@ Yeet - also when I was trying to do freelance work, but not getting enough work.
 
 <br>
 
-Overall I'm glad I bounced around in my 20s. Sometimes I look back and wish that I'd just stayed in consulting and invested the poop out of my savings. Othertimes I wish I'd bounced around _more_, experimented _more_. So I probably did it just right - right in the middle! Final takeaways:
+Overall I'm glad I bounced around in my 20s. Sometimes I look back and wish that I'd stayed in consulting and just invested the poop out of my savings. Other times, I wish I'd bounced around _more_, experimented _more_. So I probably did okay - right in the middle! Final takeaways:
 
 - money matters (ick) - the times that I struggled the most were those where I didn't know where my $$ was going to come from. My personal rule: if you can't buy spinach without looking at the price, you gotta make more money.
 - risking your health for $$ don't make no sense.
 - having autonomy + ownership over your work is an easy way to make it more fun and meaningful. 
+- working with people who care about their work is an easy way to make it more fun and meaningful. 
 - community is important - at times I got crushed by the loneliness of freelancing. The routine of going into an office and the sounds of office banter are soothing.
-- it's possible to spend a full day making an autonomous funnel and not make any money
+- it's possible to spend a full day making an autonomous funnel and not make any money. Ha!
 
 ## Going forward
-Sooo i wrote this whole thing because your twenties are supposed to be a testing ground. The premise is: try 12 things and fail at 9 of them. I tried... about 12 things. I failed at: music, online course, uber eats, sports team manager, deli man, and, (sadly) stand up. I had some success at freelance writing and programming. I'd say I truly found sucess as a soup kitchen coordinator and data engineer. So it looks like I'm going to be a data engineer for a soup kitchen. _Lit_
-
-\*kidding!\*\*
-
-\*\*kind of
+Sooo i wrote this whole thing because your twenties are supposed to be a testing ground. The premise is: try 12 things and fail at 9 of them. I tried... about 12 things! I had some success at freelance writing and programming. I'd say I truly found sucess as a soup kitchen coordinator and data engineer. So it looks like I'm going to be a data engineer for a soup kitchen. _Lit_.
