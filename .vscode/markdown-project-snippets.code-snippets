@@ -1,0 +1,31 @@
+{
+  "Create for loop": {
+    "prefix": "for",
+    "body": [
+      "for(int i = 0; i < 10; i++) {",
+      "\t// code goes here",
+      "}"
+    ],
+    "description": "Creates a basic for loop"
+  },
+  "Print to console": {
+    "prefix": "log",
+    "body": [
+      "console.log('$1');",
+      "$2"
+    ],
+    "description": "Log output to console"
+  },
+  "new page post": {
+    "prefix": "newpage",
+    "body": [
+        "---",
+        "layout: page",
+        "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+        "title: $TM_FILENAME",
+        "categories: [The Making of this Blog]",
+        "---"
+    ],
+    "description": "new page post"
+  }
+}

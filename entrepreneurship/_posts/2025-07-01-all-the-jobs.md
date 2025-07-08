@@ -9,7 +9,7 @@ Alrighht. This will be interesting.
 
 Lol can you imagine the most timid writer of all time, starting everything off with that?
 
-"This will be interesting. I promise. No keep reading. It'll be good."
+"This will be interesting. I promise. No, keep reading. It'll be good."
 
 The order here is _roughly_ chronological...
 
@@ -17,14 +17,15 @@ The order here is _roughly_ chronological...
 
 My first job, ah! The nostalgia. Didn't make much money here. Idk why this would (ever?) be included in someone's blog about how to make $$ as an entrepreneur, but alas, these are my roots.
 
-**Was it fun?** Yes! And not really... Everyone there was committed to being there and wanted to be there. Everyone cared. So that was cool. It wasn't fun when you had to deny someone help they needed. We had to kick someone out of our transitional housing program when he was caught drinking. Not being able to give a bus pass to someone trying to see their daughter.
+**Was it fun?** Yes! And not really... Everyone there was committed to being there and wanted to be there. Everyone cared. So that was cool. It wasn't fun when you had to deny someone help they needed. We had to kick someone out of the transitional housing program when he was caught drinking. Sometimes we didn't have enough bus passes, even for someone trying to see their daughter.
 
 **Did I make money?** $200 a month and free housing. Definitely a volunteering program.
 
 **Things I learned**
 
 - So much inefficiency! - once we literally had volunteers move clothes from one area to another, just to have the next set of volunteers move them back. What!?!?!
-- It's not all about efficiency... - ugh... the most useful thing I did was go to the hospital with a guest whose big toe had to be amputated. She had Diabetic neuropathy and couldn't feel that the wound on her big toe was rotting / super infected.
+- It's not all about efficiency... - ugh... the most useful thing I did was go to the hospital with a guest whose big toe had to be amputated (diabetic neuropathy - she couldn't feel that the wound on her big toe was rotting / super infected). It was good just to be there with her. 
+- Working with and around people who are giving their all is energizing and fun. 
 
 ## 2) stand up
 
@@ -42,15 +43,15 @@ Tecchhnically didn't make any money here. I went 14 times and definitely was get
 
 ## 3) Freelance Writing
 
-This one was tough! This is the second highest paying job that I gave myself, and it was a lot of work. Writing the piece itself would usually take me 4-8 hours, depending on what it was, but the real work (for me) was getting someone to pay you.
+This was the second highest paying job that I gave myself, and it was a lot of work. The writing would usually take me 4-8 hours, depending on what it was, but the real work was getting a piece accepted somewhere.
 
-To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1 in 20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article.
+To get a piece "accepted" you have to email your idea or sometimes the whole essay / article / poem (whatever) to the publication / editor. My acceptance rate was around 1 in 20. Since it would usually take me around an hour to write a pitch, it ended up being about 28 hours in all to get paid ~$200 for an article. Add on the fact that sometimes publications would take a month or two to send you a check, and you can see why the financial side of this one could be kind of rough. 
 
-**Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche newspaper of all time, writing about climate change tech. That was fine. But they pretty much always accepted my pitches, so it was a free $200. I got $50 for a poem, $50 to write about pizza (dream come true), and $800 for a personal essay. In total, I want to say I made around $5k freelance writing (over the course of like, 2-3 years).
+**Did I make money?** Yeah I did. I was able to repeatedly get some articles for the weirdest, most niche magazine of all time (writing about technology to mitigate climate change with a conservative slant?). That was fine. But they pretty much always accepted my pitches, so I pitched and wrote here often. I got $50 for a poem, $50 to write about pizza (a dream come true), and $800 for a personal essay. In total, I want to say I made around $2-3k freelance writing (over the course of like, 2-3 years).
 
 **Did I have fun?** Yes and no! It was fun to write humor pieces, or essays... it wasn't super fun to write about the new tech news in nuclear fission or whatever. I got to cover some stories on homelessness in Seattle, which was something that I'd always wanted to do.
 
-**Things I'd do differently**
+**Things I'd do differently?** Yeah there's a couple...
 
 - only pitch things I really really wanted to write
 - not rely on it for a primary source of income (at least for the first couple (6) months)
@@ -58,13 +59,13 @@ To get a piece "accepted" you have to email your idea or sometimes the whole ess
 
 ## 4) Music
 
-On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it fam. It was pretty embarassing, I got a note wrong on like silent night and left haha.
+On the street baby. Music on the street. Idk if I can even really say that I tried to do this. I busked like one time. But we did it fam. It was pretty embarassing, I got a note wrong on Silent Night and left haha.
 
 No fun. No money.
 
 ## 5) Data Engineering
 
-ahhh the "real" jobs. These jobs made me money while I was trying to decide what to do. They were the classic cog-in-machine jobs doing whatever work, which I felt (if I weren't careful!), I could spend my whole life on by accident.
+ahhh the "real" jobs. I worked a couple jobs as a data engineer. These jobs made me money while I was trying to decide what to do. They were the classic cog-in-machine jobs doing whatever work, which I felt (if I weren't careful!), I could spend my whole life on by accident.
 
 **Was it fun** sometimes!
 
@@ -73,9 +74,9 @@ ahhh the "real" jobs. These jobs made me money while I was trying to decide what
 **Things I'd do differently**
 
 - Can I say, not take it _as_ seriously? At least, I wouldn't let it take over my life, and I'd want to make sure it didn't take up much of my mental space. Like, don't worry about work after work, you know?
-- Find a way to pursue other side projects (sic: payed opportunities). Whether it's before work, at lunch, during work, etc etc. Let the job be your money maker to fund your other shit.
-- Enjoy the good parts? The getting paid on a schedule part, the freedom to buy things like lunch, the office coffee, the office chit chat and happy hours. You won't get that stuff when you're out in the field, on your own. So enjoy it while you have it!
-- Prioritize doing something fun after work so you don't feel like a total work machine. This feels like, just... go life advice lol.
+- Find a way to pursue other side projects (payed opportunities!) Whether it's before work, at lunch, during work, etc etc. Let the job be your money maker to fund your other shit.
+- Enjoy the good parts? There were definitely parts of working in a traditional job that I missed once I left -- The getting paid on a schedule part, the freedom to buy things like lunch, the office coffee, the office chit chat and happy hours. 
+- Prioritize doing something fun after work so you don't feel like a total work machine. This is maybe just like, life advice lol. But definitely, when I was doing freelance stuff in the morning, then working 9-5, it was really important to do something not-work and definitely fun after 5. 
 
 ## 6) Freelance Developer
 
@@ -87,7 +88,8 @@ Alas, a big part of freelancing in any field (I learned...) is getting the work,
 
 **If I were going to do it again**
 
-- I'd want a better plan of a) how the freak am I going to get contracts. Literally, what am I going to do. How am I going to get sales. And b) have a backup plan if the projects didn't come in for a couple months.
+- make a plan for how the freak am I going to get contracts. Literally, what am I going to do. How am I going to get sales? 
+- have a backup plan if the projects didn't come in for a couple months. When would I start applying for jobs? How could I 
 - Spend some time putting together a website / portfolio and maybe connect that to a social media account where I did lil coding projects just on the side. Could be fun!
 
 ## 7) worked for a sports team

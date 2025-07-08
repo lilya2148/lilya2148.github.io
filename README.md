@@ -22,6 +22,7 @@ https://commonmark.org/help/tutorial/05-blockquotes.html
 Just a simple page
 
 # Todo list
+- [ ] add a post by date page... maybe put it in all posts... that way... idk... people could see the method to the madness
 - [ ] what you do has more impact than how you do it... so think about what you're doing!
 - [ ] connect to your substack
 - [ ] get a custom domain name
