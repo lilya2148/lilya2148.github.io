@@ -150,9 +150,13 @@ Yeet - also when I was trying to do freelance work, but not getting enough work.
 
 - Risk! What is Risk! Risk is consequence over likelihood. It only took a couple of close calls with cars to realize that a) I wasn't making nearly enough money to justify the risk of getting wrecked in an accident b) I'd have to pay out the ass in insurance because I was on Medicaid (pretty sure my deductible was like 12k) and c) if I was going to bike all day everyday then I was exposing myself to the risk of serious injury pretty much all the time.
 
+<br>
+
 ----- 
 
-Overall I'm glad I bounced around in my 20s. Sometimes I look back and wish that I'd just stayed in consulting and invested the poop out of my savings. Othertimes I wish I would have bounced around _more_, experimented more. So I probably did it just right - right in the middle! Final takeaways:
+<br>
+
+Overall I'm glad I bounced around in my 20s. Sometimes I look back and wish that I'd just stayed in consulting and invested the poop out of my savings. Othertimes I wish I'd bounced around _more_, experimented _more_. So I probably did it just right - right in the middle! Final takeaways:
 
 - money matters (ick) - the times that I struggled the most were those where I didn't know where my $$ was going to come from. My personal rule: if you can't buy spinach without looking at the price, you gotta make more money.
 - risking your health for $$ don't make no sense.
