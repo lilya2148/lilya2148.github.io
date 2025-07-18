@@ -1,7 +1,7 @@
 ---
 layout: page
 date: 07-10-2025
-title: ""rules" for writing (for now)"
+title: "'rules' for writing (for now)"
 categories: [On Writing]
 ---
 
