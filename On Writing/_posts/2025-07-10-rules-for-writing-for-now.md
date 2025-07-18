@@ -23,11 +23,11 @@ I also started [a big list of writing advice](https://lilya2148.github.io/on%20w
 - it should be fun...!!
 
 ### Current Routine
-I've gone through a lot of iterations of "writing" routines. I still feel like I need to write every day in order to build up some discipline + confidence that I'm I'm going to do the thing I say I'm going to do. I'm aiming to write an hour or two in the morning before work. I've loosened up a bit! I used to have a todo list of like 7-8 things to hit every morning (brush teeth, drink water were on there). 
+I've gone through a lot of iterations of "writing" routines. I still feel like I need to write every day in order to build up some discipline + confidence that I'm I'm going to do the thing I say I'm going to do. I'm aiming to write an hour or two in the morning before work. 
 
-To make it enjoyable + fun, I write by a river, on my computer, with coffee. All these things make writing easy/fun/enjoyable for me. I love being outside in the morning with coffee, and the spot I go to is so beautiful! I also have wifi here, which is nice, because I like to work out of Google docs, and make posts/updates to this site. 
+I write by a river, on my computer, with coffee. All these things make writing easy/fun/enjoyable for me. I love being outside in the morning with coffee, and the spot I go to is so beautiful! I also have wifi here, which is nice, because I like to work out of Google docs, and make posts/updates to this site. 
 
-I write for 10-15 minutes in DayOne (I used the free version). This is my warmup / morning pages.... I try to not write for more than 750 words and my LIMIT LIMIT is 1000. I would spend all morning just beebopping my journal thoughts, but that's not very productive, is it. The stuff that I'm writing in there is so unpolished and random, it's not really usable. 
+My warmup is #morningpagessszzz: I write for 10-15 minutes in a (free) app called DayOne. Even on days when I don't really want to write, I'm able to get through morning pages. And then after that, I usually am ready to roll. I try to not write for more than 750 words and my LIMIT LIMIT is 1000. I would spend all morning just beebopping my journal thoughts, but that's not very productive, is it.
 
 Next, I consult my list for the week, and start working! I try to write for 2 hours a day, but this has been hard for me! Usually, I'll write from 710 or so to 830, when I have to start getting ready for work.
 
