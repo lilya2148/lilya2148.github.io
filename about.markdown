@@ -16,3 +16,5 @@ You've probably realized by now that this is in fact, a two page project. That's
 I am hosting this site on github pages, and I used the quickstart from [jekyllrb.com](https://jekyllrb.com/) to get all the styles / layouts. 
 
 If you like... really want to, you can donate to this project by clicking on the button below. 
+
+
