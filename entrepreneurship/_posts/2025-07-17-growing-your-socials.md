@@ -8,13 +8,14 @@ Alright - I don't think this is going to be very long, but I do want to call out
 
 This post - in addition to having some _siiiick_ hooks (i.e. the title) had a lot of resources in the slides. The main takeaways for me were:
 
-1) define your one sentence brand... bc it should be really clear what you're doing when someone lands on your page... 
+## 2) pick one format to get really good at
+Another form of niching down. But for sure! Helpful if you're going to be mass producing posts, which brings us to... 
 
-2) pick one format to get really good at
 
-3) be loved by 10 before being seen by 10k (this is pretty much a direct quote! I thought it was awesome and really helpful!)
+## 3) post often and consistently (she recommended 2-3x per week for 90 days)
+Yeaaaah no getting around this one eh? For me, staying consistent is basically impossible, so what I'm shooting for is to set up a buffer account and just, once a week, schedule 10 posts. My fear is that one day I won't have anything to post. Alas, hopefully during the rest of the week I can work on creating posts... but is that really waht I'm doing here? Just making a buuunnch of instagram posts?? What about the longer form stuff. I feel like people have told me to shift to longer form stuff?! 
 
-4) post often and consistently (she recommended 2-3x per week for 90 days)
+I think my solution here (and I'm just coming up with it on the spot, so don't kill me) is to yes, do longer form stuff and have a slightly large focus be on that. To use longer form in the short form (i.e. essays on IG). And to have a really quick and dirty way to make a bunch of posts REALLY fast. 
 
 5) remix the posts that do really well - change formats, make a part 2, etc
 
@@ -22,6 +23,11 @@ This post - in addition to having some _siiiick_ hooks (i.e. the title) had a lo
 
 7) Manually build community (polls, dms, comments)
 
-I feel like the one that's always hard for me is the "brand in one sentence" ... that's not easy when you're doing like artsy-fartsy stuff, right? but the other ones I think are really good advice. 
+## 4) be loved by 10 before being seen by 10k 
+Okay this is like preettty (this is pretty much a direct quote! I thought it was awesome and really helpful!)
 
-I go back and forth on whether it's "worth it" to build socials, but I think the thing that it always comes down to is... yeah! It's a really good way for something you make to reach thousands to millions of people. That, if nothing else, is so so so so powerful. It's a tool that people would have paid so much money for, like, 20 years ago. Just a marketing, content-beaming, superpower. So use it! 
+ 
+## 1) define your one sentence brand... 
+bc it should be really clear what you're doing when someone lands on your page... I feel like everyone says this, and I always struggle with it... not easy when you're doing like artsy-fartsy stuff, right? Alas, even if it's super vague, or Ross Gayian like "I'm going to write a book of delights" at least you know what you're working on, and other people know what you're working on. 
+
+
