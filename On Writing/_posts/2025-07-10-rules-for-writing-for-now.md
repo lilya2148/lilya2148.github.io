@@ -10,25 +10,19 @@ b) to have something to come back to in times of despair
 
 I wrote [a big list of writing advice](https://lilya2148.github.io/on%20writing/2025/05/01/writing-advice.html) because I felt like there were so many sources / people / blogs telling me what to do to _be_ a writer and do it well. This is my own selection from that, as well as potentially unadvisable rules that work for me but are weird. 
 
-## On "'rules'"
-Why the quotes? Because I don't really believe in rules. 
-
-## On "(for now)"
-Because anything could change. 
-
-## Cycles / Things to do on repeat
+### things to do on repeat
 1. Yearly, make a rough project plan that goes quarter by quarter and what you might work towards in those quarters
 2. Quarterly, review the plan for that quarter, add some detail, add some concrete goals you'd like to hit
 3. Monthly, set goals + todos
 4. Weekly, on monday, review the past week (how'd it go? why?), list out all the things you want to accomplish this week. Try to choose the hgihest impact items and work on that. 
 5. Weekly, on Monday, add content to be posted to your 3 content streams (IG, IG, substack) for the next 10 days. IG should have 10 posts, substack should have 1. 
 
-## Principles
+### Principles
 - make it easy, fun, enjoyable (Atomic Habitzzz)
 - juuuust make it exist, then make it better
 - it should be fun...!!
 
-## Current Routine
+### Current Routine
 I've gone through a lot of iterations of "writing" routines. I still feel like I need to write every day in order to build up some discipline / confidnece that I'm I'm going to do the thing I say I'm going to do. I'm aiming to write an hour or two in the morning before work. I've loosened up a bit! I used to have a todo list of like 7-8 things to hit every morning (brush teeth, drink water were on there). 
 
 To make it enjoyable + fun, I write by the water, on my computer, with coffee. All these things make writing easy/fun/enjoyable for me. I love being outside in the morning with coffee, and the spot I go to is so beautiful! I also have wifi here, which is nice, because I like to work out of Google docs, and make posts/updates to this site. 
@@ -47,12 +41,12 @@ Realistically, I think 4-6 hrs of work per day is my max for high output, lots-o
 
 If everything went right in a week, I think I could do 2 hours in the mornings, 1 hour at lunch, 15-30 minutes adhoc throughout the day, and 30 minutes after dinner. Then on the weekends I could do anywhere from 2-4 hours a day. So all in all, a _perfect_ week (where I don't have many social plans / adventures on the weekends or after work), would be around 4 x 7 = 28 hours. Pretty good! 
 
-## Outliers + Weird stuff
+### Outliers + Weird stuff
 I'm big into planning apparently. I *do* count my planning time as writing, but I try to keep it minimal. If this is my business, it's not like my PM is going to be a non-paid employee. We gotta do it, and we gotta pay for it. It's important work! But - I do like to informally timebox this by keeping a constant mantra of "I should be writing, writing" whenever I'm making a plan. Same goes with other business tasks... I count it as writing time, and trust that if it's on my list, it's important enough to need to get done. This includes setting up social media accounts / scheduling tools, creating an LLC, and website (coding) updates. 
 
 On Writing On Writing - how meta can we get here. Look, if it's writing, and I like it, I'm going to do it haha. Even if it's just about how I write. Even if it's about bananas. I'm pretty attentive to what projects are FUN!!! and what projects I thought would be fun, and actually suck. If a project I thought would be FUNN!! actually sucks... then I try to make a note to not do that kind of work in the future. For me, writing and thinking about process has always been fun. So I indulge. Also, I love to go meta. Allow it! 
 
-## Current Mantra: Just Make It Exist. 
+### Current Mantra: Just Make It Exist. 
 From none other than the substack of Caitlin Kunkel, my personal hero and guide: "Sometimes, making it exist is all that matters, and then you move into making it good." (from: [Writing is a Game of Attrition](https://inputandoutput.substack.com/p/writing-is-a-game-of-attrition))
 
 This has really helped me to CHILLOUT whenever I write something, and some part of my body is like "THIS FREAKING SUCKS MANN." 
