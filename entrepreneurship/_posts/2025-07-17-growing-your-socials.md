@@ -9,13 +9,19 @@ Alright - I don't think this is going to be very long, but I do want to call out
 This post - in addition to having some _siiiick_ hooks (i.e. the title) had a lot of resources in the slides. The main takeaways for me were:
 
 1) define your one sentence brand... bc it should be really clear what you're doing when someone lands on your page... 
+
 2) pick one format to get really good at
+
 3) be loved by 10 before being seen by 10k (this is pretty much a direct quote! I thought it was awesome and really helpful!)
+
 4) post often and consistently (she recommended 2-3x per week for 90 days)
+
 5) remix the posts that do really well - change formats, make a part 2, etc
+
 6) do a recurring series
+
 7) Manually build community (polls, dms, comments)
 
-I feel like the one that's always hard for me is the "brand in one sentence" ... that's not easy when you're doing like artsy-fartsy stuff, right... but the other ones I think _are_ really good advice. 
+I feel like the one that's always hard for me is the "brand in one sentence" ... that's not easy when you're doing like artsy-fartsy stuff, right? but the other ones I think are really good advice. 
 
 I go back and forth on whether it's "worth it" to build socials, but I think the thing that it always comes down to is... yeah! It's a really good way for something you make to reach thousands to millions of people. That, if nothing else, is so so so so powerful. It's a tool that people would have paid so much money for, like, 20 years ago. Just a marketing, content-beaming, superpower. So use it! 
