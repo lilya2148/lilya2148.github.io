@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "books"
-category: "books"
+title: "projects"
+category: "projects"
 permalink: /category/projects/
 ---
