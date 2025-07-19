@@ -8,6 +8,7 @@ category: On Writing
 3. "In the practical sense only you can teach yourself to write with your own writing, writing, and more writing." Gene Perret
 4. "I'm writing a first draft and reminding myself that I'm simply shoveling sand into a box so that I can later build sandcastles." Shannon Hale
 5. Pretend YOU are ChatGPT and then have the determination or the will power to just DO what you’re asking/wanting. It’ll be a function of willpower, which is a con, but trick yourself into it!. 
+6. "“Write a short story every week. It's not possible to write 52 bad short stories in a row.” -- Ray Bradbury
 
 # [Henry Miller](https://www.themarginalian.org/2012/02/22/henry-miller-on-writing/)
 1. Work on one thing at a time until finished.
