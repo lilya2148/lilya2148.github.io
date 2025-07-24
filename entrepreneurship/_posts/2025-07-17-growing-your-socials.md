@@ -14,7 +14,7 @@ Make it easy on yourself! I feel like I see this advice a bunch... find somethin
 This advice is calling for another type of niching down, but instead of niching on content, it's niching on form. Which... I guess is a part of content. The whole point, I think, is that you're (hopefully) going to be creating a lot, so you might as well get comfortable with the form. 
 
 ### 2) post consistently 
-This person recommended 2-3x per week for 90 days, which I liked. Hormozi, internet field, says you should do 100 in 100 days. Gary V says once a day for a year. Whatever your number is - sounds like you've got to post a decent amount in order to get a following and in order for the ALGORITHM to deem you worthy. 
+This person recommended 2-3x per week for 90 days, which I liked. Hormozi, internet fiend, says you should do 100 in 100 days. Gary V says once a day for a year. Whatever your number is - sounds like you've got to post a decent amount in order to get a following and in order for the ALGORITHM to deem you worthy. 
 
 Note: I've only gone viral once, and it was at the end of a challenge to post 70 times in 3 months. Literally it was like the last post that I made to get to 70, and I posted like 5 times in a day because I was like, "Gotta get to 70." 
 
