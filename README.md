@@ -21,10 +21,12 @@ https://commonmark.org/help/tutorial/05-blockquotes.html
 # Vision
 Just a simple page
 
+
+# 
 # Todo list
 - [ ] add a post by date page... maybe put it in all posts... that way... idk... people could see the method to the madness
-- [ ] what you do has more impact than how you do it... so think about what you're doing!
-- [ ] connect to your substack
+- [ ] https://github.com/jekyll/jemoji for emojis?
+- [ ] connect to (a) substack
 - [ ] get a custom domain name
 - [ ] add site stats + page for site stats
 - [ ] make a new category function that will dcreate the category page, the folder, etc

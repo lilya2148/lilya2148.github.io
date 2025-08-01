@@ -39,6 +39,7 @@ author:
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 collections:
   category:
     output: true
