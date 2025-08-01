@@ -4,13 +4,14 @@ date:   2025-08-01 18:23:10 -0500
 categories: [projects]
 title: "August Week 1"
 ---
-✅ month review  
-✅ month checklist  
-⬜ 40 funny substack notes  
-⬜ 1 funny substack   
-⬜ 8 funny IGs  
-⬜ 40 EIELs  
-⬜ 1 substack post for mems  
+⬜ write one sincere substack for the month! → post manually!
+⬜ Write one funny substack for the month! → post manually
+⬜ 10 funny notes (ss)
+⬜ schedule 10 funny notes (ss - channel 2) 
+⬜ 2 funny IGs (Channel 1 on buffer) (fake online classes/business making schemes)
+⬜ 2 funny IGs
+⬜ 10 EIEL notes (ss)
+⬜ schedule 10 EIEL notes to IG  (channel 3 in buffer)
 
 ### admin todos
 ⬜ … look at all your mcsweenies submissions and put them on IG! and on your blog  
@@ -26,12 +27,6 @@ title: "August Week 1"
 ⬜ mimic shades of grey’s welcome email  
 ⬜ read that article on growing your substack following + collect ideas on how to do that  
 
-Week 1 - 
-Week 2 -  
-Week 3 -  
-Week 4 -  
-
 ### Hope
-yeah! Just hoping I can stick to this plan! I feel like I have a good thing going with my strategy and stuff, so just hoping to deliver.
-
+I hope I can knock out a lot of this early in the week! And then start to do soem admin tasks. If I did everything on the OG list I'd be happy. 
 ### Review
