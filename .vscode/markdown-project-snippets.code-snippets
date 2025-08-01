@@ -18,6 +18,7 @@
   },
   "new page post": {
     "prefix": "newpage",
+    "scope": "markdown",
     "body": [
         "---",
         "layout: page",
