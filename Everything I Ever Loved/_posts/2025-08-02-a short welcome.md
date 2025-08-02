@@ -29,4 +29,4 @@ So that's what this page is, in some ways! This page is dedicated to celebrating
 
 So yeah! It you vibe, you vibe. Let's get snacks. Stay a while. If not, no worries. 
 
-[^1] Like.. not legally. So it was no big deal. But it was, maybe, the biggest or most direct sort of 'f-u' energy I've ever been on the other side of. They were essentially like, I can't believe you did this. How could you lie to us. Please leave this apartment. I was like, yeah, my bad. I'll go. Didna feel good, I'll tell you what. 
+[^1]: Like.. not legally. So it was no big deal. But it was, maybe, the biggest or most direct sort of 'f-u' energy I've ever been on the other side of. They were essentially like, I can't believe you did this. How could you lie to us. Please leave this apartment. I was like, yeah, my bad. I'll go. Didna feel good, I'll tell you what. 
