@@ -4,14 +4,14 @@ date:   2025-08-02 4:00:10
 categories: [projects]
 title: "August Week 1"
 ---
-⬜ write one sincere substack for the month! → post manually!
-⬜ Write one funny substack for the month! → post manually
-⬜ 10 funny notes (ss)
-⬜ schedule 10 funny notes (ss - channel 2) 
-⬜ 2 funny IGs (Channel 1 on buffer) (fake online classes/business making schemes)
-⬜ 2 funny IGs
-⬜ 10 EIEL notes (ss)
-⬜ schedule 10 EIEL notes to IG  (channel 3 in buffer)
+⬜ write one sincere substack for the month! → post manually!  
+⬜ Write one funny substack for the month! → post manually  
+⬜ 10 funny notes (ss)  
+⬜ schedule 10 funny notes (ss - channel 2)   
+⬜ 2 funny IGs (Channel 1 on buffer) (fake online classes/business making schemes)  
+⬜ 2 funny IGs  
+⬜ 10 EIEL notes (ss)  
+⬜ schedule 10 EIEL notes to IG  (channel 3 in buffer)  
 
 ### admin todos
 ⬜ … look at all your mcsweenies submissions and put them on IG! and on your blog  
