@@ -18,7 +18,7 @@ def create_category(category):
     os.mkdir(os.path.join(category, 'drafts'))
 
     print('Creating a file for the category permalink')
-    category_permalink = category.replace(' ', '-')
+    category_permalink = category.replace(' ', '-').lower()
     category_page_contents = f"""---
 layout: category
 title: "{category}"
