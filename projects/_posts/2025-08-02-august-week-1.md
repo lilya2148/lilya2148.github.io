@@ -1,6 +1,6 @@
 ---
 layout: page
-date:   2025-07-02 11:00:10 -0500
+date:   2025-08-02 4:00:10
 categories: [projects]
 title: "August Week 1"
 ---
