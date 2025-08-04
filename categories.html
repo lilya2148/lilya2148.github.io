@@ -3,12 +3,12 @@ title: Topics
 layout: base
 permalink: /categories/
 ---
-<p>nerdzzz</p>
+
 {% for category in site.categories %} 
   {% assign category_name = category | first%}
   {% assign category_slug = category_name | slugify %}
   <h3>
-    <a href="{{ '/categories/' | append: category_slug | append: '/' | relative_url }}">
+    <a href="{{ '/category/' | append: category_slug | append: '/' | relative_url }}">
     <u>{{ category_name }}</u>
   </a>
   </h3>
