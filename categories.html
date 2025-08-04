@@ -5,7 +5,10 @@ permalink: /categories/
 ---
 {% for category in site.categories %}
   {% assign category_name = category | first %}
-  <h3>{{ category_name }}</h3>
+  <h3>
+    <a href="{{ category.url | relative_url }}">{{ category_name }}</a> 
+    <!-- {{ category_name }} -->
+  </h3>
   <ul>
     {% for post in category.last limit:5 %}
       <li>
