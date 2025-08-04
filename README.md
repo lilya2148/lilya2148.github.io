@@ -33,3 +33,4 @@ Just a simple page
 - [ ] develop a way to post to instagram automatically using their api: https://developers.facebook.com/docs/instagram-platform/content-publishing
     - [ ] it could have... a schedule / calendar like buffer
     - [ ] it could point to folders / filenames / know where to post things depending on their folder location and or filename... 
+- [ ] [customizing... ](https://emmatheeng.github.io/projects/blog_setup/blog-styling.html)

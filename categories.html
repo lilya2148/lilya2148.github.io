@@ -6,7 +6,8 @@ permalink: /categories/
 {% for category in site.categories %}
   {% assign category_name = category | first %}
   <h3>
-    <a href="{{ category.url }}">{{ category_name }}</a> 
+    <!-- {{ "My Awesome Post Title!" | slugify }}-->
+    <a href="{{ relative_url}}/{{ category_name | slugify}}">{{ category_name }}</a> 
     <!-- {{ category_name }} -->
   </h3>
   <ul>
