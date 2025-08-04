@@ -6,11 +6,9 @@ permalink: /categories/
 
 {% for category in site.categories %} {% assign category_name = category | first%}
 <h3>
-  <a
-    href="{{ '/categories/' | append: '/' | append: category_name | slugify | append: '/' | relative_url }}">
-    <u>{{ category_name }}</u>
-  </a>
-  <!-- {{ category_name }} -->
+  <a href="{{ '/categories/' | append: (category_name | slugify) | append: '/' | relative_url }}">
+  <u>{{ category_name }}</u>
+</a>
 </h3>
 <ul>
   {% for post in category.last limit:5 %}
