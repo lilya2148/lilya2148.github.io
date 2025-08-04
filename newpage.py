@@ -2,8 +2,6 @@ from datetime import datetime
 import os
 import argparse
 
-
-
 def get_configs():
     parser = argparse.ArgumentParser(description="Make a new post (if it has spaces, make sure to use double quotes!!)")
     parser.add_argument('--cat', type=str, help="What're you writing about?")
@@ -42,7 +40,14 @@ def category_check(category):
 
 def main():
     args = get_configs()
-    category_check(args.cat)
+    if args is None: 
+        category = args.cat
+        title = args.title
+    else: 
+        category = input("Category: ")
+        title = input("Title: ")
+    
+    category_check(category)
     # GET TITLE, CATEGORY, DATETIME
     now = datetime.now()
     now_date = now.strftime("%Y-%m-%d")
@@ -50,15 +55,15 @@ def main():
 
     page_contents = f"""---
 layout: page
-title: {args.title}
+title: {title}
 date: {now_datetime}
-category: [{args.cat}]
+category: [{category}]
 ---
 Yes, and at last, we begin to write something pretty sweet. As we always do. By reciting: Oh the wonders of the great earth...
 """
 
     # WRITE THE FILE
-    post_path = os.path.join(f"./{args.cat}/_posts/{now_date}-{args.title}.md")
+    post_path = os.path.join(f"./{category}/_posts/{now_date}-{title}.md")
     print(f"Creating (or overwriting in 5..4..)'{post_path}'")
     with open(post_path, 'w') as file:
         file.write(page_contents)
