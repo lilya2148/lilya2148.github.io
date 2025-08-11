@@ -1,8 +1,8 @@
 ---
 layout: page
-date:   2025-08-02 4:00:10
+date:   2025-08-08 7:00:10
 categories: [projects]
-title: "August Week 1"
+title: "August Week 2"
 ---
 ⬜ publish 2 funny IGs  
 ✅ 2 funny IGs (Channel 1 on buffer) (fake online classes/business making schemes)  
@@ -35,7 +35,7 @@ title: "August Week 1"
 ✅ mine may 25 2025 for ideas (see day one)  
 
 ### Hope
-I hope I can knock out a lot of this early in the week! And then start to do soem admin tasks. If I did everything on the OG list I'd be happy. 
+
 
 ### Review
 coming sooon
