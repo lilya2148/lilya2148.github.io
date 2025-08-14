@@ -10,6 +10,7 @@ category: On Writing
 5. Pretend YOU are ChatGPT and then have the determination or the will power to just DO what you’re asking/wanting. It’ll be a function of willpower, which is a con, but trick yourself into it!. 
 6. "Write a short story every week. It's not possible to write 52 bad short stories in a row.” -- Ray Bradbury
 7. [On getting out of a rut](https://www.instagram.com/p/CiIkMKDOlGG/?img_index=10)
+8. 
 
 # [Henry Miller](https://www.themarginalian.org/2012/02/22/henry-miller-on-writing/)
 1. Work on one thing at a time until finished.
