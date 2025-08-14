@@ -10,7 +10,8 @@ category: On Writing
 5. Pretend YOU are ChatGPT and then have the determination or the will power to just DO what you’re asking/wanting. It’ll be a function of willpower, which is a con, but trick yourself into it!. 
 6. "Write a short story every week. It's not possible to write 52 bad short stories in a row.” -- Ray Bradbury
 7. [On getting out of a rut](https://www.instagram.com/p/CiIkMKDOlGG/?img_index=10)
-8. 
+8. I like what I like, and you like what you like, and art is the place where liking what we like, over and over, is not only allowed, but is the essential skill. How emphatically can you like what you like? How long are you willing to work on something to ensure that every bit of it gets infused with some trace of your radical preference? The choosing, the choosing, that’s all we’ve got.” - George Saunders  
+9. “This writer may bear little resemblance to the writer we dreamed of being. She is born, for better or worse, out of that which we really are: the tendencies we’ve been trying, all these years, in our writing and maybe even in our lives, to suppress or deny or correct, the parts of ourselves of which we might even feel a little ashamed.” - George Saunders  
 
 # [Henry Miller](https://www.themarginalian.org/2012/02/22/henry-miller-on-writing/)
 1. Work on one thing at a time until finished.
